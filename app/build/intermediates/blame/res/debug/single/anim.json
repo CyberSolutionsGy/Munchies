@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/anim/abc_slide_in_top.xml"
+    }
+]

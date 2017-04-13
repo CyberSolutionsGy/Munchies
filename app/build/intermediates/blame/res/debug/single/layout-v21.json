@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

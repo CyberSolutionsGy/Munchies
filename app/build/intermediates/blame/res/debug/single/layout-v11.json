@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]
