@@ -46,6 +46,21 @@ public class MainActivity extends AppCompatActivity {
 
                         startActivity(new Intent(MainActivity.this, PizzaHutActivity.class));
                         break;
+                    case 1:
+
+                        startActivity(new Intent(MainActivity.this, ChurchesActivity.class));
+                        break;
+                    case 2:
+
+                        startActivity(new Intent(MainActivity.this, KFCActivity.class));
+                        break;
+                    case 3:
+
+                        startActivity(new Intent(MainActivity.this, OMGActivity.class));
+                        break;
+                    default:
+
+                        Toast.makeText(MainActivity.this, "No Activities at this time", Toast.LENGTH_SHORT).show();
                 }
 
             }

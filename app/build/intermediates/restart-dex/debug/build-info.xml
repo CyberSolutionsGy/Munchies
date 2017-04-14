@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="25"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
     build-mode="COLD"
     density="xxhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1492184170491"
+    timestamp="1492185681823"
     token="486012044365319182"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="791" />
+        duration="215" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="36" />
+        duration="16" />
     <task
         name="verifier"
-        duration="11" />
+        duration="2" />
 
-    <artifact
-        location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
@@ -38,11 +32,20 @@
 
     <build
         build-mode="FULL"
-        timestamp="1492183864296"
+        timestamp="1492185449211"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
@@ -59,12 +62,6 @@
             location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
@@ -73,20 +70,11 @@
         <artifact
             location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1492184170491"
+        timestamp="1492185681823"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />

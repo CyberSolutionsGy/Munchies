@@ -44,6 +44,10 @@
         "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/activity_omg.xml",
+        "source": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/layout/activity_omg.xml"
+    },
+    {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
         "source": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/layout/design_layout_tab_text.xml"
     },
@@ -54,6 +58,10 @@
     {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/activity_churches.xml",
+        "source": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/layout/activity_churches.xml"
     },
     {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
@@ -198,6 +206,10 @@
     {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/activity_kfc.xml",
+        "source": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/layout/activity_kfc.xml"
     },
     {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",

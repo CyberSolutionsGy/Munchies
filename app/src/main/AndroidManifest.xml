@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PizzaHutActivity"></activity>
+        <activity android:name=".PizzaHutActivity" />
+        <activity android:name=".KFCActivity" />
+        <activity android:name=".OMGActivity" />
+        <activity android:name=".ChurchesActivity"></activity>
     </application>
 
 </manifest>
