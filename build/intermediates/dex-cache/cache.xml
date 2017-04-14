@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73197442f8d0373475673f1422f04759013d43fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali3n/.android/build-cache/40dccb633e187d7c486a596ab547410129fa8825/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e8547e0c5a0edd6daec25e265baaca1a8ea7ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e0357335b4148a9a3db13a74a9f4d3bbf8d3a54">
+        <dex dex="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_394ebbb09760c1ff772fc35be0d4b81e8be5b481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali3n/.android/build-cache/291febd0c0baffb02ac8f328698261070a5f7988/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbb0e2005b747e615b1efbdb6d9de3c293949a96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f6638a423b1aa61aa141b538b417c1bd115e5fc/classes.dex" />
+    </item>
+
+</items>

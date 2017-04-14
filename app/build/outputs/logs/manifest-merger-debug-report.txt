@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/b50ff9aa95bb8b44640e287211b0838be4e38714/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/8ca64904fd2918249834b2b10281284b63cb10f6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/ali3n/.android/build-cache/291febd0c0baffb02ac8f328698261070a5f7988/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ali3n/.android/build-cache/52905cdf5a6084948d14ab505cbeb49197ad4f36/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ali3n/.android/build-cache/b97a2772264fee896303cd1ad168b48ca0541dae/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ali3n/.android/build-cache/67fd2285d4201e73a8c840ab1e88a8245eea85f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ali3n/.android/build-cache/05d36d52ffc69f603d2cc3c96c4b283d5effd7ee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ali3n/.android/build-cache/5b71141b92828232c84af8df836cefdb6e9e0afc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ali3n/.android/build-cache/fdc5fdcc50a1ab31d1d27b07f39bfaf8bed0c32d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ali3n/.android/build-cache/7e9edf6d68962fe3944aaae075c912882a58c4ca/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ali3n.munchies.MainActivity
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.ali3n.munchies.PizzaHutActivity
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:19:19-51
+uses-sdk
+INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/b50ff9aa95bb8b44640e287211b0838be4e38714/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/8ca64904fd2918249834b2b10281284b63cb10f6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/ali3n/.android/build-cache/40dccb633e187d7c486a596ab547410129fa8825/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/ali3n/.android/build-cache/291febd0c0baffb02ac8f328698261070a5f7988/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ali3n/.android/build-cache/52905cdf5a6084948d14ab505cbeb49197ad4f36/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ali3n/.android/build-cache/b97a2772264fee896303cd1ad168b48ca0541dae/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ali3n/.android/build-cache/67fd2285d4201e73a8c840ab1e88a8245eea85f9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ali3n/.android/build-cache/05d36d52ffc69f603d2cc3c96c4b283d5effd7ee/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ali3n/.android/build-cache/5b71141b92828232c84af8df836cefdb6e9e0afc/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ali3n/.android/build-cache/fdc5fdcc50a1ab31d1d27b07f39bfaf8bed0c32d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ali3n/.android/build-cache/7e9edf6d68962fe3944aaae075c912882a58c4ca/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/b50ff9aa95bb8b44640e287211b0838be4e38714/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/8ca64904fd2918249834b2b10281284b63cb10f6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/ali3n/.android/build-cache/40dccb633e187d7c486a596ab547410129fa8825/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/ali3n/.android/build-cache/291febd0c0baffb02ac8f328698261070a5f7988/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ali3n/.android/build-cache/52905cdf5a6084948d14ab505cbeb49197ad4f36/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ali3n/.android/build-cache/b97a2772264fee896303cd1ad168b48ca0541dae/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ali3n/.android/build-cache/67fd2285d4201e73a8c840ab1e88a8245eea85f9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ali3n/.android/build-cache/05d36d52ffc69f603d2cc3c96c4b283d5effd7ee/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ali3n/.android/build-cache/5b71141b92828232c84af8df836cefdb6e9e0afc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ali3n/.android/build-cache/fdc5fdcc50a1ab31d1d27b07f39bfaf8bed0c32d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:26:9-47

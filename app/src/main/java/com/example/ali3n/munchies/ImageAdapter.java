@@ -1,6 +1,7 @@
 package com.example.ali3n.munchies;
 
 import android.content.Context;
+import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
@@ -16,6 +17,7 @@ public class ImageAdapter extends BaseAdapter {
 
     public ImageAdapter(Context c) {
         mContext = c;
+
     }
 
     public int getCount() {
@@ -29,6 +31,8 @@ public class ImageAdapter extends BaseAdapter {
     public long getItemId(int position) {
         return 0;
     }
+
+
 
     // create a new ImageView for each item referenced by the Adapter
     public View getView(int position, View convertView, ViewGroup parent) {
@@ -57,6 +61,7 @@ public class ImageAdapter extends BaseAdapter {
             R.drawable.pizzahutxxxhdpi, R.drawable.pizzahutxxxhdpi,
 
 
+
         /**    R.drawable.sample_4, R.drawable.sample_5,
             R.drawable.sample_6, R.drawable.sample_7,
             R.drawable.sample_0, R.drawable.sample_1,
@@ -69,4 +74,7 @@ public class ImageAdapter extends BaseAdapter {
             R.drawable.sample_6, R.drawable.sample_7
          **/
     };
+
+
 }
+

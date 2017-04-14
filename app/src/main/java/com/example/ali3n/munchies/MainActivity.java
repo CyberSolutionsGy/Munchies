@@ -1,5 +1,6 @@
 package com.example.ali3n.munchies;
 
+import android.content.Intent;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mDrawerLayout = (DrawerLayout)findViewById(R.id.drawerLayout);
+        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
         mToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.string.Open, R.string.Close);
 
         mDrawerLayout.addDrawerListener(mToggle);
@@ -38,11 +39,19 @@ public class MainActivity extends AppCompatActivity {
                                     int position, long id) {
                 Toast.makeText(MainActivity.this, "" + position,
                         Toast.LENGTH_SHORT).show();
+
+                switch (position){
+
+                    case 0:
+
+                        startActivity(new Intent(MainActivity.this, PizzaHutActivity.class));
+                        break;
+                }
+
             }
         });
+
     }
-
-
     @Override
 
   public boolean onOptionsItemSelected(MenuItem item){
@@ -53,3 +62,4 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
+
