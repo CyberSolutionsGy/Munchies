@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManif
 		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:5:5-23:19
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/ali3n/.android/build-cache/b50ff9aa95bb8b44640e287211b0838be4e38714/output/AndroidManifest.xml:26:5-20
@@ -66,9 +66,13 @@ ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManif
 	android:name
 		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:21:19-46
 activity#com.example.ali3n.munchies.ChurchesActivity
-ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:22:9-63
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:22:9-54
 	android:name
 		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.example.ali3n.munchies.DetailsActivity
+ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml:23:19-50
 uses-sdk
 INJECTED from /Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] /Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/AndroidManifest.xml:21:5-23:62

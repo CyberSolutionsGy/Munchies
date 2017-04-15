@@ -1,80 +1,60 @@
 package com.example.ali3n.munchies;
 
+import android.app.Activity;
 import android.content.Context;
 import android.util.AttributeSet;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AbsListView;
+import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.widget.TextView;
+
+import java.util.ArrayList;
 
 /**
  * Created by ali3n on 4/14/17.
  */
 
-public class ImageAdapter extends BaseAdapter {
-    private Context mContext;
+public class ImageAdapter extends ArrayAdapter<ImageItem> {
+    private Context context;
+    private int layoutResourceId;
+    private ArrayList data = new ArrayList();
 
-    public ImageAdapter(Context c) {
-        mContext = c;
-
+    public ImageAdapter(Context context, int layoutResourceId, ArrayList<ImageItem> data) {
+        super(context, layoutResourceId, data);
+        this.layoutResourceId = layoutResourceId;
+        this.context = context;
+        this.data = data;
     }
 
-    public int getCount() {
-        return mThumbIds.length;
-    }
-
-    public Object getItem(int position) {
-        return null;
-    }
-
-    public long getItemId(int position) {
-        return 0;
-    }
-
-
-
-    // create a new ImageView for each item referenced by the Adapter
+    @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        ImageView imageView;
-        if (convertView == null) {
-            // if it's not recycled, initialize some attributes
-            imageView = new ImageView(mContext);
-            imageView.setLayoutParams(new GridView.LayoutParams(85, 85));
-            imageView.setScaleType(ImageView.ScaleType.CENTER_CROP);
-            imageView.setPadding(8, 8, 8, 8);
+        View row = convertView;
+        ViewHolder holder = null;
+
+        if (row == null) {
+            LayoutInflater inflater = ((Activity) context).getLayoutInflater();
+            row = inflater.inflate(layoutResourceId, parent, false);
+            holder = new ViewHolder();
+            holder.imageTitle = (TextView) row.findViewById(R.id.text);
+            holder.image = (ImageView) row.findViewById(R.id.image);
+            row.setTag(holder);
         } else {
-            imageView = (ImageView) convertView;
+            holder = (ViewHolder) row.getTag();
         }
 
-        imageView.setImageResource(mThumbIds[position]);
-        return imageView;
+        ImageItem item = (ImageItem) data.get(position);
+        holder.imageTitle.setText(item.getTitle());
+        holder.image.setImageBitmap(item.getImage());
+        return row;
     }
 
-    // references to our images
-    private Integer[] mThumbIds = {
-            R.drawable.pizzahuthdpi, R.drawable.pizzahuthdpi,
-            R.drawable.pizzahutldpi, R.drawable.pizzahutldpi,
-            R.drawable.pizzahutmdpi, R.drawable.pizzahutmdpi,
-            R.drawable.pizzahutxhdpi, R.drawable.pizzahutxhdpi,
-            R.drawable.pizzahutxxhdpi, R.drawable.pizzahutxxhdpi,
-            R.drawable.pizzahutxxxhdpi, R.drawable.pizzahutxxxhdpi,
-
-
-
-        /**    R.drawable.sample_4, R.drawable.sample_5,
-            R.drawable.sample_6, R.drawable.sample_7,
-            R.drawable.sample_0, R.drawable.sample_1,
-            R.drawable.sample_2, R.drawable.sample_3,
-            R.drawable.sample_4, R.drawable.sample_5,
-            R.drawable.sample_6, R.drawable.sample_7,
-            R.drawable.sample_0, R.drawable.sample_1,
-            R.drawable.sample_2, R.drawable.sample_3,
-            R.drawable.sample_4, R.drawable.sample_5,
-            R.drawable.sample_6, R.drawable.sample_7
-         **/
-    };
-
-
+    static class ViewHolder {
+        TextView imageTitle;
+        ImageView image;
+    }
 }
-

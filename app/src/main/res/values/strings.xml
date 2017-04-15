@@ -2,4 +2,13 @@
     <string name="app_name">Munchies</string>
     <string name="Open">Open</string>
     <string name="Close">Close</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/pizzahutldpi</item>
+        <item>@drawable/pizzahutmdpi</item>
+        <item>@drawable/pizzahutxhdpi</item>
+        <item>@drawable/pizzahutxxhdpi</item>
+        <item>@drawable/pizzahutxxxhdpi</item>
+
+    </string-array>
 </resources>

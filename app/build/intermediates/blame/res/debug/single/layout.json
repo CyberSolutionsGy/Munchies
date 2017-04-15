@@ -84,6 +84,10 @@
         "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/activity_details.xml",
+        "source": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/layout/activity_details.xml"
+    },
+    {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -126,6 +130,10 @@
     {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/grid_item_layout.xml",
+        "source": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/layout/grid_item_layout.xml"
     },
     {
         "merged": "/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",

@@ -1,4 +1,4 @@
-#Fri Apr 14 12:01:23 GYT 2017
+#Fri Apr 14 20:48:58 GYT 2017
 base.0=/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
 renamed.0=classes.dex
 file.0=/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

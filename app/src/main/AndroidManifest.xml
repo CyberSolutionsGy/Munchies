@@ -19,7 +19,8 @@
         <activity android:name=".PizzaHutActivity" />
         <activity android:name=".KFCActivity" />
         <activity android:name=".OMGActivity" />
-        <activity android:name=".ChurchesActivity"></activity>
+        <activity android:name=".ChurchesActivity" />
+        <activity android:name=".DetailsActivity"></activity>
     </application>
 
 </manifest>

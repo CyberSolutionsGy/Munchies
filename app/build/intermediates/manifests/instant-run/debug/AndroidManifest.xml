@@ -30,6 +30,7 @@
         <activity android:name="com.example.ali3n.munchies.KFCActivity" />
         <activity android:name="com.example.ali3n.munchies.OMGActivity" />
         <activity android:name="com.example.ali3n.munchies.ChurchesActivity" />
+        <activity android:name="com.example.ali3n.munchies.DetailsActivity" />
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
