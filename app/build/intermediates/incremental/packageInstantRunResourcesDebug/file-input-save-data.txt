@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Apr 14 20:48:57 GYT 2017
+#Sat Apr 15 03:15:21 GYT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher_round.png

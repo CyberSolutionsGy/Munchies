@@ -21,11 +21,22 @@ public class MainActivity extends AppCompatActivity {
 
     private GridView gridView;
     private ImageAdapter gridAdapter;
+    private DrawerLayout mDrawerLayout;
+    private ActionBarDrawerToggle mToggle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        mDrawerLayout = (DrawerLayout)findViewById(R.id.drawerLayout);
+        mToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.string.Open, R.string.Close);
+
+        mDrawerLayout.addDrawerListener(mToggle);
+        mToggle.syncState();
+
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         gridView = (GridView) findViewById(R.id.gridView);
         gridAdapter = new ImageAdapter(this, R.layout.grid_item_layout, getData());
@@ -36,12 +47,34 @@ public class MainActivity extends AppCompatActivity {
                 ImageItem item = (ImageItem) parent.getItemAtPosition(position);
 
                 //Create intent
-                Intent intent = new Intent(MainActivity.this, DetailsActivity.class);
+             /*   Intent intent = new Intent(MainActivity.this, DetailsActivity.class);
                 intent.putExtra("title", item.getTitle());
                 intent.putExtra("image", item.getImage());
 
                 //Start details activity
                 startActivity(intent);
+                */
+                switch (position){
+
+                    case 0:
+                        startActivity(new Intent(MainActivity.this, PizzaHutActivity.class));
+                        break;
+
+                    case 1:
+                        startActivity(new Intent(MainActivity.this, KFCActivity.class));
+                        break;
+
+                    case 2:
+                        startActivity(new Intent(MainActivity.this, OMGActivity.class));
+                        break;
+
+                    case 3:
+                    startActivity(new Intent(MainActivity.this, ChurchesActivity.class));
+                    break;
+
+
+
+                }
             }
         });
     }
@@ -58,4 +91,16 @@ public class MainActivity extends AppCompatActivity {
         }
         return imageItems;
     }
+
+
+    @Override
+
+    public boolean onOptionsItemSelected(MenuItem item){
+
+        if(mToggle.onOptionsItemSelected(item)){
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
 }

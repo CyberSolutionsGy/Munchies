@@ -12,15 +12,7 @@
                     "endOffset": 378
                 },
                 "from": {
-                    "file": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 141,
-                        "endLine": 12,
-                        "endColumn": 19,
-                        "endOffset": 419
-                    }
+                    "file": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -3934,20 +3926,27 @@
                     "startLine": 687,
                     "startColumn": 4,
                     "startOffset": 58949,
-                    "endColumn": 45,
-                    "endOffset": 58990
+                    "endColumn": 46,
+                    "endOffset": 58991
                 },
                 "from": {
-                    "file": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/values/strings.xml"
+                    "file": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 688,
                     "startColumn": 4,
-                    "startOffset": 58995,
+                    "startOffset": 58996,
                     "endColumn": 144,
-                    "endOffset": 59135
+                    "endOffset": 59136
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -3957,9 +3956,9 @@
                 "to": {
                     "startLine": 689,
                     "startColumn": 4,
-                    "startOffset": 59140,
+                    "startOffset": 59141,
                     "endColumn": 120,
-                    "endOffset": 59256
+                    "endOffset": 59257
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -3969,9 +3968,9 @@
                 "to": {
                     "startLine": 690,
                     "startColumn": 4,
-                    "startOffset": 59261,
+                    "startOffset": 59262,
                     "endColumn": 86,
-                    "endOffset": 59343
+                    "endOffset": 59344
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -3981,9 +3980,9 @@
                 "to": {
                     "startLine": 691,
                     "startColumn": 4,
-                    "startOffset": 59348,
+                    "startOffset": 59349,
                     "endColumn": 90,
-                    "endOffset": 59434
+                    "endOffset": 59435
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -3993,9 +3992,9 @@
                 "to": {
                     "startLine": 692,
                     "startColumn": 4,
-                    "startOffset": 59439,
+                    "startOffset": 59440,
                     "endColumn": 300,
-                    "endOffset": 59735
+                    "endOffset": 59736
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -4005,9 +4004,9 @@
                 "to": {
                     "startLine": 693,
                     "startColumn": 4,
-                    "startOffset": 59740,
+                    "startOffset": 59741,
                     "endColumn": 165,
-                    "endOffset": 59901
+                    "endOffset": 59902
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -4017,9 +4016,9 @@
                 "to": {
                     "startLine": 694,
                     "startColumn": 4,
-                    "startOffset": 59906,
+                    "startOffset": 59907,
                     "endColumn": 154,
-                    "endOffset": 60056
+                    "endOffset": 60057
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -4029,9 +4028,9 @@
                 "to": {
                     "startLine": 695,
                     "startColumn": 4,
-                    "startOffset": 60061,
+                    "startOffset": 60062,
                     "endColumn": 101,
-                    "endOffset": 60158
+                    "endOffset": 60159
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -4041,9 +4040,9 @@
                 "to": {
                     "startLine": 696,
                     "startColumn": 4,
-                    "startOffset": 60163,
+                    "startOffset": 60164,
                     "endColumn": 52,
-                    "endOffset": 60211
+                    "endOffset": 60212
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4053,9 +4052,9 @@
                 "to": {
                     "startLine": 697,
                     "startColumn": 4,
-                    "startOffset": 60216,
+                    "startOffset": 60217,
                     "endColumn": 70,
-                    "endOffset": 60282
+                    "endOffset": 60283
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4065,9 +4064,9 @@
                 "to": {
                     "startLine": 698,
                     "startColumn": 4,
-                    "startOffset": 60287,
+                    "startOffset": 60288,
                     "endColumn": 77,
-                    "endOffset": 60360
+                    "endOffset": 60361
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4077,9 +4076,9 @@
                 "to": {
                     "startLine": 699,
                     "startColumn": 4,
-                    "startOffset": 60365,
+                    "startOffset": 60366,
                     "endColumn": 89,
-                    "endOffset": 60450
+                    "endOffset": 60451
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4089,9 +4088,9 @@
                 "to": {
                     "startLine": 700,
                     "startColumn": 4,
-                    "startOffset": 60455,
+                    "startOffset": 60456,
                     "endColumn": 87,
-                    "endOffset": 60538
+                    "endOffset": 60539
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4101,9 +4100,9 @@
                 "to": {
                     "startLine": 701,
                     "startColumn": 4,
-                    "startOffset": 60543,
+                    "startOffset": 60544,
                     "endColumn": 95,
-                    "endOffset": 60634
+                    "endOffset": 60635
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4113,10 +4112,10 @@
                 "to": {
                     "startLine": 702,
                     "startColumn": 4,
-                    "startOffset": 60639,
+                    "startOffset": 60640,
                     "endLine": 705,
                     "endColumn": 12,
-                    "endOffset": 60921
+                    "endOffset": 60922
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -4126,10 +4125,10 @@
                 "to": {
                     "startLine": 706,
                     "startColumn": 4,
-                    "startOffset": 60926,
+                    "startOffset": 60927,
                     "endLine": 711,
                     "endColumn": 12,
-                    "endOffset": 61205
+                    "endOffset": 61206
                 },
                 "from": {
                     "file": "/Users/ali3n/AndroidStudioProjects/Munchies/app/src/main/res/values/styles.xml"
@@ -4139,10 +4138,10 @@
                 "to": {
                     "startLine": 712,
                     "startColumn": 4,
-                    "startOffset": 61210,
+                    "startOffset": 61211,
                     "endLine": 718,
                     "endColumn": 12,
-                    "endOffset": 61706
+                    "endOffset": 61707
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4152,9 +4151,9 @@
                 "to": {
                     "startLine": 719,
                     "startColumn": 4,
-                    "startOffset": 61711,
+                    "startOffset": 61712,
                     "endColumn": 88,
-                    "endOffset": 61795
+                    "endOffset": 61796
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4164,10 +4163,10 @@
                 "to": {
                     "startLine": 720,
                     "startColumn": 4,
-                    "startOffset": 61800,
+                    "startOffset": 61801,
                     "endLine": 723,
                     "endColumn": 12,
-                    "endOffset": 62042
+                    "endOffset": 62043
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4177,10 +4176,10 @@
                 "to": {
                     "startLine": 724,
                     "startColumn": 4,
-                    "startOffset": 62047,
+                    "startOffset": 62048,
                     "endLine": 727,
                     "endColumn": 12,
-                    "endOffset": 62323
+                    "endOffset": 62324
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4190,10 +4189,10 @@
                 "to": {
                     "startLine": 728,
                     "startColumn": 4,
-                    "startOffset": 62328,
+                    "startOffset": 62329,
                     "endLine": 732,
                     "endColumn": 12,
-                    "endOffset": 62608
+                    "endOffset": 62609
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4203,10 +4202,10 @@
                 "to": {
                     "startLine": 733,
                     "startColumn": 4,
-                    "startOffset": 62613,
+                    "startOffset": 62614,
                     "endLine": 738,
                     "endColumn": 12,
-                    "endOffset": 63001
+                    "endOffset": 63002
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4216,10 +4215,10 @@
                 "to": {
                     "startLine": 739,
                     "startColumn": 4,
-                    "startOffset": 63006,
+                    "startOffset": 63007,
                     "endLine": 745,
                     "endColumn": 12,
-                    "endOffset": 63478
+                    "endOffset": 63479
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4229,10 +4228,10 @@
                 "to": {
                     "startLine": 746,
                     "startColumn": 4,
-                    "startOffset": 63483,
+                    "startOffset": 63484,
                     "endLine": 749,
                     "endColumn": 12,
-                    "endOffset": 63700
+                    "endOffset": 63701
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4242,10 +4241,10 @@
                 "to": {
                     "startLine": 750,
                     "startColumn": 4,
-                    "startOffset": 63705,
+                    "startOffset": 63706,
                     "endLine": 753,
                     "endColumn": 12,
-                    "endOffset": 63922
+                    "endOffset": 63923
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4255,10 +4254,10 @@
                 "to": {
                     "startLine": 754,
                     "startColumn": 4,
-                    "startOffset": 63927,
+                    "startOffset": 63928,
                     "endLine": 758,
                     "endColumn": 12,
-                    "endOffset": 64190
+                    "endOffset": 64191
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4268,10 +4267,10 @@
                 "to": {
                     "startLine": 759,
                     "startColumn": 4,
-                    "startOffset": 64195,
+                    "startOffset": 64196,
                     "endLine": 762,
                     "endColumn": 12,
-                    "endOffset": 64417
+                    "endOffset": 64418
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4281,10 +4280,10 @@
                 "to": {
                     "startLine": 763,
                     "startColumn": 4,
-                    "startOffset": 64422,
+                    "startOffset": 64423,
                     "endLine": 766,
                     "endColumn": 12,
-                    "endOffset": 64647
+                    "endOffset": 64648
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4294,10 +4293,10 @@
                 "to": {
                     "startLine": 767,
                     "startColumn": 4,
-                    "startOffset": 64652,
+                    "startOffset": 64653,
                     "endLine": 770,
                     "endColumn": 12,
-                    "endOffset": 64877
+                    "endOffset": 64878
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4307,10 +4306,10 @@
                 "to": {
                     "startLine": 771,
                     "startColumn": 4,
-                    "startOffset": 64882,
+                    "startOffset": 64883,
                     "endLine": 774,
                     "endColumn": 12,
-                    "endOffset": 65107
+                    "endOffset": 65108
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4320,10 +4319,10 @@
                 "to": {
                     "startLine": 775,
                     "startColumn": 4,
-                    "startOffset": 65112,
+                    "startOffset": 65113,
                     "endLine": 778,
                     "endColumn": 12,
-                    "endOffset": 65337
+                    "endOffset": 65338
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4333,10 +4332,10 @@
                 "to": {
                     "startLine": 779,
                     "startColumn": 4,
-                    "startOffset": 65342,
+                    "startOffset": 65343,
                     "endLine": 782,
                     "endColumn": 12,
-                    "endOffset": 65564
+                    "endOffset": 65565
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4346,10 +4345,10 @@
                 "to": {
                     "startLine": 783,
                     "startColumn": 4,
-                    "startOffset": 65569,
+                    "startOffset": 65570,
                     "endLine": 786,
                     "endColumn": 12,
-                    "endOffset": 65803
+                    "endOffset": 65804
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4359,10 +4358,10 @@
                 "to": {
                     "startLine": 787,
                     "startColumn": 4,
-                    "startOffset": 65808,
+                    "startOffset": 65809,
                     "endLine": 790,
                     "endColumn": 12,
-                    "endOffset": 66029
+                    "endOffset": 66030
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4372,10 +4371,10 @@
                 "to": {
                     "startLine": 791,
                     "startColumn": 4,
-                    "startOffset": 66034,
+                    "startOffset": 66035,
                     "endLine": 794,
                     "endColumn": 12,
-                    "endOffset": 66274
+                    "endOffset": 66275
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4385,10 +4384,10 @@
                 "to": {
                     "startLine": 795,
                     "startColumn": 4,
-                    "startOffset": 66279,
+                    "startOffset": 66280,
                     "endLine": 798,
                     "endColumn": 12,
-                    "endOffset": 66504
+                    "endOffset": 66505
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4398,10 +4397,10 @@
                 "to": {
                     "startLine": 799,
                     "startColumn": 4,
-                    "startOffset": 66509,
+                    "startOffset": 66510,
                     "endLine": 802,
                     "endColumn": 12,
-                    "endOffset": 66752
+                    "endOffset": 66753
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4411,10 +4410,10 @@
                 "to": {
                     "startLine": 803,
                     "startColumn": 4,
-                    "startOffset": 66757,
+                    "startOffset": 66758,
                     "endLine": 806,
                     "endColumn": 12,
-                    "endOffset": 66971
+                    "endOffset": 66972
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4424,10 +4423,10 @@
                 "to": {
                     "startLine": 807,
                     "startColumn": 4,
-                    "startOffset": 66976,
+                    "startOffset": 66977,
                     "endLine": 811,
                     "endColumn": 12,
-                    "endOffset": 67254
+                    "endOffset": 67255
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4437,10 +4436,10 @@
                 "to": {
                     "startLine": 812,
                     "startColumn": 4,
-                    "startOffset": 67259,
+                    "startOffset": 67260,
                     "endLine": 815,
                     "endColumn": 12,
-                    "endOffset": 67462
+                    "endOffset": 67463
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4450,10 +4449,10 @@
                 "to": {
                     "startLine": 816,
                     "startColumn": 4,
-                    "startOffset": 67467,
+                    "startOffset": 67468,
                     "endLine": 818,
                     "endColumn": 12,
-                    "endOffset": 67593
+                    "endOffset": 67594
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4463,10 +4462,10 @@
                 "to": {
                     "startLine": 819,
                     "startColumn": 4,
-                    "startOffset": 67598,
+                    "startOffset": 67599,
                     "endLine": 822,
                     "endColumn": 12,
-                    "endOffset": 67820
+                    "endOffset": 67821
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4476,10 +4475,10 @@
                 "to": {
                     "startLine": 823,
                     "startColumn": 4,
-                    "startOffset": 67825,
+                    "startOffset": 67826,
                     "endLine": 826,
                     "endColumn": 12,
-                    "endOffset": 68066
+                    "endOffset": 68067
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4489,10 +4488,10 @@
                 "to": {
                     "startLine": 827,
                     "startColumn": 4,
-                    "startOffset": 68071,
+                    "startOffset": 68072,
                     "endLine": 830,
                     "endColumn": 12,
-                    "endOffset": 68291
+                    "endOffset": 68292
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4502,10 +4501,10 @@
                 "to": {
                     "startLine": 831,
                     "startColumn": 4,
-                    "startOffset": 68296,
+                    "startOffset": 68297,
                     "endLine": 834,
                     "endColumn": 12,
-                    "endOffset": 68538
+                    "endOffset": 68539
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4515,10 +4514,10 @@
                 "to": {
                     "startLine": 835,
                     "startColumn": 4,
-                    "startOffset": 68543,
+                    "startOffset": 68544,
                     "endLine": 838,
                     "endColumn": 12,
-                    "endOffset": 68759
+                    "endOffset": 68760
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4528,10 +4527,10 @@
                 "to": {
                     "startLine": 839,
                     "startColumn": 4,
-                    "startOffset": 68764,
+                    "startOffset": 68765,
                     "endLine": 842,
                     "endColumn": 12,
-                    "endOffset": 69004
+                    "endOffset": 69005
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4541,10 +4540,10 @@
                 "to": {
                     "startLine": 843,
                     "startColumn": 4,
-                    "startOffset": 69009,
+                    "startOffset": 69010,
                     "endLine": 846,
                     "endColumn": 12,
-                    "endOffset": 69280
+                    "endOffset": 69281
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4554,10 +4553,10 @@
                 "to": {
                     "startLine": 847,
                     "startColumn": 4,
-                    "startOffset": 69285,
+                    "startOffset": 69286,
                     "endLine": 850,
                     "endColumn": 12,
-                    "endOffset": 69581
+                    "endOffset": 69582
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4567,10 +4566,10 @@
                 "to": {
                     "startLine": 851,
                     "startColumn": 4,
-                    "startOffset": 69586,
+                    "startOffset": 69587,
                     "endLine": 854,
                     "endColumn": 12,
-                    "endOffset": 69905
+                    "endOffset": 69906
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4580,10 +4579,10 @@
                 "to": {
                     "startLine": 855,
                     "startColumn": 4,
-                    "startOffset": 69910,
+                    "startOffset": 69911,
                     "endLine": 858,
                     "endColumn": 12,
-                    "endOffset": 70196
+                    "endOffset": 70197
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4593,10 +4592,10 @@
                 "to": {
                     "startLine": 859,
                     "startColumn": 4,
-                    "startOffset": 70201,
+                    "startOffset": 70202,
                     "endLine": 862,
                     "endColumn": 12,
-                    "endOffset": 70510
+                    "endOffset": 70511
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4606,9 +4605,9 @@
                 "to": {
                     "startLine": 863,
                     "startColumn": 4,
-                    "startOffset": 70515,
+                    "startOffset": 70516,
                     "endColumn": 136,
-                    "endOffset": 70647
+                    "endOffset": 70648
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4618,9 +4617,9 @@
                 "to": {
                     "startLine": 864,
                     "startColumn": 4,
-                    "startOffset": 70652,
+                    "startOffset": 70653,
                     "endColumn": 130,
-                    "endOffset": 70778
+                    "endOffset": 70779
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4630,9 +4629,9 @@
                 "to": {
                     "startLine": 865,
                     "startColumn": 4,
-                    "startOffset": 70783,
+                    "startOffset": 70784,
                     "endColumn": 104,
-                    "endOffset": 70883
+                    "endOffset": 70884
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4642,10 +4641,10 @@
                 "to": {
                     "startLine": 866,
                     "startColumn": 4,
-                    "startOffset": 70888,
+                    "startOffset": 70889,
                     "endLine": 868,
                     "endColumn": 12,
-                    "endOffset": 71125
+                    "endOffset": 71126
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4655,10 +4654,10 @@
                 "to": {
                     "startLine": 869,
                     "startColumn": 4,
-                    "startOffset": 71130,
+                    "startOffset": 71131,
                     "endLine": 871,
                     "endColumn": 12,
-                    "endOffset": 71292
+                    "endOffset": 71293
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4668,10 +4667,10 @@
                 "to": {
                     "startLine": 872,
                     "startColumn": 4,
-                    "startOffset": 71297,
+                    "startOffset": 71298,
                     "endLine": 874,
                     "endColumn": 12,
-                    "endOffset": 71496
+                    "endOffset": 71497
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4681,10 +4680,10 @@
                 "to": {
                     "startLine": 875,
                     "startColumn": 4,
-                    "startOffset": 71501,
+                    "startOffset": 71502,
                     "endLine": 877,
                     "endColumn": 12,
-                    "endOffset": 71704
+                    "endOffset": 71705
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4694,10 +4693,10 @@
                 "to": {
                     "startLine": 878,
                     "startColumn": 4,
-                    "startOffset": 71709,
+                    "startOffset": 71710,
                     "endLine": 881,
                     "endColumn": 12,
-                    "endOffset": 71975
+                    "endOffset": 71976
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4707,9 +4706,9 @@
                 "to": {
                     "startLine": 882,
                     "startColumn": 4,
-                    "startOffset": 71980,
+                    "startOffset": 71981,
                     "endColumn": 111,
-                    "endOffset": 72087
+                    "endOffset": 72088
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4719,9 +4718,9 @@
                 "to": {
                     "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 72092,
+                    "startOffset": 72093,
                     "endColumn": 111,
-                    "endOffset": 72199
+                    "endOffset": 72200
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4731,9 +4730,9 @@
                 "to": {
                     "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 72204,
+                    "startOffset": 72205,
                     "endColumn": 104,
-                    "endOffset": 72304
+                    "endOffset": 72305
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4743,9 +4742,9 @@
                 "to": {
                     "startLine": 885,
                     "startColumn": 4,
-                    "startOffset": 72309,
+                    "startOffset": 72310,
                     "endColumn": 116,
-                    "endOffset": 72421
+                    "endOffset": 72422
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4755,10 +4754,10 @@
                 "to": {
                     "startLine": 886,
                     "startColumn": 4,
-                    "startOffset": 72426,
+                    "startOffset": 72427,
                     "endLine": 888,
                     "endColumn": 12,
-                    "endOffset": 72635
+                    "endOffset": 72636
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4768,10 +4767,10 @@
                 "to": {
                     "startLine": 889,
                     "startColumn": 4,
-                    "startOffset": 72640,
+                    "startOffset": 72641,
                     "endLine": 890,
                     "endColumn": 12,
-                    "endOffset": 72781
+                    "endOffset": 72782
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4781,10 +4780,10 @@
                 "to": {
                     "startLine": 891,
                     "startColumn": 4,
-                    "startOffset": 72786,
+                    "startOffset": 72787,
                     "endLine": 892,
                     "endColumn": 12,
-                    "endOffset": 72921
+                    "endOffset": 72922
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4794,10 +4793,10 @@
                 "to": {
                     "startLine": 893,
                     "startColumn": 4,
-                    "startOffset": 72926,
+                    "startOffset": 72927,
                     "endLine": 894,
                     "endColumn": 12,
-                    "endOffset": 73007
+                    "endOffset": 73008
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4807,10 +4806,10 @@
                 "to": {
                     "startLine": 895,
                     "startColumn": 4,
-                    "startOffset": 73012,
+                    "startOffset": 73013,
                     "endLine": 899,
                     "endColumn": 12,
-                    "endOffset": 73355
+                    "endOffset": 73356
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4820,9 +4819,9 @@
                 "to": {
                     "startLine": 900,
                     "startColumn": 4,
-                    "startOffset": 73360,
+                    "startOffset": 73361,
                     "endColumn": 87,
-                    "endOffset": 73443
+                    "endOffset": 73444
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4832,10 +4831,10 @@
                 "to": {
                     "startLine": 901,
                     "startColumn": 4,
-                    "startOffset": 73448,
+                    "startOffset": 73449,
                     "endLine": 904,
                     "endColumn": 12,
-                    "endOffset": 73673
+                    "endOffset": 73674
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4845,10 +4844,10 @@
                 "to": {
                     "startLine": 905,
                     "startColumn": 4,
-                    "startOffset": 73678,
+                    "startOffset": 73679,
                     "endLine": 910,
                     "endColumn": 12,
-                    "endOffset": 74091
+                    "endOffset": 74092
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4858,10 +4857,10 @@
                 "to": {
                     "startLine": 911,
                     "startColumn": 4,
-                    "startOffset": 74096,
+                    "startOffset": 74097,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 74324
+                    "endOffset": 74325
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4871,9 +4870,9 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 74329,
+                    "startOffset": 74330,
                     "endColumn": 81,
-                    "endOffset": 74406
+                    "endOffset": 74407
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4883,10 +4882,10 @@
                 "to": {
                     "startLine": 916,
                     "startColumn": 4,
-                    "startOffset": 74411,
+                    "startOffset": 74412,
                     "endLine": 917,
                     "endColumn": 12,
-                    "endOffset": 74504
+                    "endOffset": 74505
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4896,10 +4895,10 @@
                 "to": {
                     "startLine": 918,
                     "startColumn": 4,
-                    "startOffset": 74509,
+                    "startOffset": 74510,
                     "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 75096
+                    "endOffset": 75097
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4909,9 +4908,9 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 75101,
+                    "startOffset": 75102,
                     "endColumn": 99,
-                    "endOffset": 75196
+                    "endOffset": 75197
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4921,10 +4920,10 @@
                 "to": {
                     "startLine": 930,
                     "startColumn": 4,
-                    "startOffset": 75201,
+                    "startOffset": 75202,
                     "endLine": 933,
                     "endColumn": 12,
-                    "endOffset": 75432
+                    "endOffset": 75433
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4934,10 +4933,10 @@
                 "to": {
                     "startLine": 934,
                     "startColumn": 4,
-                    "startOffset": 75437,
+                    "startOffset": 75438,
                     "endLine": 939,
                     "endColumn": 12,
-                    "endOffset": 75856
+                    "endOffset": 75857
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4947,10 +4946,10 @@
                 "to": {
                     "startLine": 940,
                     "startColumn": 4,
-                    "startOffset": 75861,
+                    "startOffset": 75862,
                     "endLine": 943,
                     "endColumn": 12,
-                    "endOffset": 76095
+                    "endOffset": 76096
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4960,9 +4959,9 @@
                 "to": {
                     "startLine": 944,
                     "startColumn": 4,
-                    "startOffset": 76100,
+                    "startOffset": 76101,
                     "endColumn": 93,
-                    "endOffset": 76189
+                    "endOffset": 76190
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4972,9 +4971,9 @@
                 "to": {
                     "startLine": 945,
                     "startColumn": 4,
-                    "startOffset": 76194,
+                    "startOffset": 76195,
                     "endColumn": 88,
-                    "endOffset": 76278
+                    "endOffset": 76279
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4984,10 +4983,10 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 76283,
+                    "startOffset": 76284,
                     "endLine": 949,
                     "endColumn": 12,
-                    "endOffset": 76515
+                    "endOffset": 76516
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -4997,10 +4996,10 @@
                 "to": {
                     "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 76520,
+                    "startOffset": 76521,
                     "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 78539
+                    "endOffset": 78540
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5010,10 +5009,10 @@
                 "to": {
                     "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 78544,
+                    "startOffset": 78545,
                     "endLine": 980,
                     "endColumn": 12,
-                    "endOffset": 78781
+                    "endOffset": 78782
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5023,9 +5022,9 @@
                 "to": {
                     "startLine": 981,
                     "startColumn": 4,
-                    "startOffset": 78786,
+                    "startOffset": 78787,
                     "endColumn": 101,
-                    "endOffset": 78883
+                    "endOffset": 78884
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5035,10 +5034,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 78888,
+                    "startOffset": 78889,
                     "endLine": 985,
                     "endColumn": 12,
-                    "endOffset": 79120
+                    "endOffset": 79121
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5048,10 +5047,10 @@
                 "to": {
                     "startLine": 986,
                     "startColumn": 4,
-                    "startOffset": 79125,
+                    "startOffset": 79126,
                     "endLine": 1013,
                     "endColumn": 12,
-                    "endOffset": 81276
+                    "endOffset": 81277
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5061,10 +5060,10 @@
                 "to": {
                     "startLine": 1014,
                     "startColumn": 4,
-                    "startOffset": 81281,
+                    "startOffset": 81282,
                     "endLine": 1171,
                     "endColumn": 12,
-                    "endOffset": 90880
+                    "endOffset": 90881
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5074,10 +5073,10 @@
                 "to": {
                     "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 90885,
+                    "startOffset": 90886,
                     "endLine": 1193,
                     "endColumn": 12,
-                    "endOffset": 92131
+                    "endOffset": 92132
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5087,10 +5086,10 @@
                 "to": {
                     "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 92136,
+                    "startOffset": 92137,
                     "endLine": 1351,
                     "endColumn": 12,
-                    "endOffset": 101834
+                    "endOffset": 101835
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5100,10 +5099,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 101839,
+                    "startOffset": 101840,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 103097
+                    "endOffset": 103098
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5113,10 +5112,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103102,
+                    "startOffset": 103103,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 104589
+                    "endOffset": 104590
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5126,10 +5125,10 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 104594,
+                    "startOffset": 104595,
                     "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 105125
+                    "endOffset": 105126
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5139,10 +5138,10 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 105130,
+                    "startOffset": 105131,
                     "endLine": 1412,
                     "endColumn": 12,
-                    "endOffset": 105455
+                    "endOffset": 105456
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5152,10 +5151,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 105460,
+                    "startOffset": 105461,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 106720
+                    "endOffset": 106721
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5165,10 +5164,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 106725,
+                    "startOffset": 106726,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 106976
+                    "endOffset": 106977
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5178,10 +5177,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 106981,
+                    "startOffset": 106982,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 107212
+                    "endOffset": 107213
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5191,10 +5190,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 107217,
+                    "startOffset": 107218,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 107759
+                    "endOffset": 107760
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5204,10 +5203,10 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 107764,
+                    "startOffset": 107765,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 108253
+                    "endOffset": 108254
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5217,10 +5216,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 108258,
+                    "startOffset": 108259,
                     "endLine": 1472,
                     "endColumn": 12,
-                    "endOffset": 108858
+                    "endOffset": 108859
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5230,10 +5229,10 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 108863,
+                    "startOffset": 108864,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 109056
+                    "endOffset": 109057
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5243,10 +5242,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 109061,
+                    "startOffset": 109062,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 109636
+                    "endOffset": 109637
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5256,10 +5255,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 109641,
+                    "startOffset": 109642,
                     "endLine": 1491,
                     "endColumn": 12,
-                    "endOffset": 110200
+                    "endOffset": 110201
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5269,10 +5268,10 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 110205,
+                    "startOffset": 110206,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 110575
+                    "endOffset": 110576
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5282,9 +5281,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 110580,
+                    "startOffset": 110581,
                     "endColumn": 117,
-                    "endOffset": 110693
+                    "endOffset": 110694
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5294,10 +5293,10 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 110698,
+                    "startOffset": 110699,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 111231
+                    "endOffset": 111232
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5307,10 +5306,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 111236,
+                    "startOffset": 111237,
                     "endLine": 1511,
                     "endColumn": 12,
-                    "endOffset": 111388
+                    "endOffset": 111389
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5320,10 +5319,10 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 111393,
+                    "startOffset": 111394,
                     "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 111584
+                    "endOffset": 111585
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5333,10 +5332,10 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 111589,
+                    "startOffset": 111590,
                     "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 111857
+                    "endOffset": 111858
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5346,10 +5345,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 111862,
+                    "startOffset": 111863,
                     "endLine": 1522,
                     "endColumn": 12,
-                    "endOffset": 112113
+                    "endOffset": 112114
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5359,10 +5358,10 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 112118,
+                    "startOffset": 112119,
                     "endLine": 1526,
                     "endColumn": 12,
-                    "endOffset": 112283
+                    "endOffset": 112284
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5372,10 +5371,10 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 112288,
+                    "startOffset": 112289,
                     "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 112424
+                    "endOffset": 112425
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5385,9 +5384,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 112429,
+                    "startOffset": 112430,
                     "endColumn": 63,
-                    "endOffset": 112488
+                    "endOffset": 112489
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5397,10 +5396,10 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 112493,
+                    "startOffset": 112494,
                     "endLine": 1534,
                     "endColumn": 12,
-                    "endOffset": 112770
+                    "endOffset": 112771
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5410,10 +5409,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 112775,
+                    "startOffset": 112776,
                     "endLine": 1538,
                     "endColumn": 12,
-                    "endOffset": 113056
+                    "endOffset": 113057
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5423,10 +5422,10 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 113061,
+                    "startOffset": 113062,
                     "endLine": 1548,
                     "endColumn": 12,
-                    "endOffset": 113732
+                    "endOffset": 113733
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5436,10 +5435,10 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 113737,
+                    "startOffset": 113738,
                     "endLine": 1553,
                     "endColumn": 12,
-                    "endOffset": 113996
+                    "endOffset": 113997
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5449,10 +5448,10 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 114001,
+                    "startOffset": 114002,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 114334
+                    "endOffset": 114335
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5462,10 +5461,10 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 114339,
+                    "startOffset": 114340,
                     "endLine": 1566,
                     "endColumn": 12,
-                    "endOffset": 114687
+                    "endOffset": 114688
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5475,9 +5474,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 114692,
+                    "startOffset": 114693,
                     "endColumn": 93,
-                    "endOffset": 114781
+                    "endOffset": 114782
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5487,10 +5486,10 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 114786,
+                    "startOffset": 114787,
                     "endLine": 1570,
                     "endColumn": 12,
-                    "endOffset": 114967
+                    "endOffset": 114968
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5500,10 +5499,10 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 114972,
+                    "startOffset": 114973,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 115273
+                    "endOffset": 115274
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5513,10 +5512,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 115278,
+                    "startOffset": 115279,
                     "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 115535
+                    "endOffset": 115536
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5526,10 +5525,10 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 115540,
+                    "startOffset": 115541,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 115660
+                    "endOffset": 115661
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5539,10 +5538,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 115665,
+                    "startOffset": 115666,
                     "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 115787
+                    "endOffset": 115788
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5552,10 +5551,10 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 115792,
+                    "startOffset": 115793,
                     "endLine": 1586,
                     "endColumn": 12,
-                    "endOffset": 116026
+                    "endOffset": 116027
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5565,10 +5564,10 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 116031,
+                    "startOffset": 116032,
                     "endLine": 1589,
                     "endColumn": 12,
-                    "endOffset": 116237
+                    "endOffset": 116238
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5578,10 +5577,10 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 116242,
+                    "startOffset": 116243,
                     "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 116356
+                    "endOffset": 116357
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5591,10 +5590,10 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 116361,
+                    "startOffset": 116362,
                     "endLine": 1595,
                     "endColumn": 12,
-                    "endOffset": 116549
+                    "endOffset": 116550
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5604,10 +5603,10 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 116554,
+                    "startOffset": 116555,
                     "endLine": 1598,
                     "endColumn": 12,
-                    "endOffset": 116726
+                    "endOffset": 116727
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5617,10 +5616,10 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 116731,
+                    "startOffset": 116732,
                     "endLine": 1605,
                     "endColumn": 12,
-                    "endOffset": 117181
+                    "endOffset": 117182
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5630,10 +5629,10 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 117186,
+                    "startOffset": 117187,
                     "endLine": 1608,
                     "endColumn": 12,
-                    "endOffset": 117362
+                    "endOffset": 117363
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5643,10 +5642,10 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 117367,
+                    "startOffset": 117368,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 117484
+                    "endOffset": 117485
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5656,10 +5655,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 117489,
+                    "startOffset": 117490,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 117743
+                    "endOffset": 117744
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5669,10 +5668,10 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 117748,
+                    "startOffset": 117749,
                     "endLine": 1617,
                     "endColumn": 12,
-                    "endOffset": 117856
+                    "endOffset": 117857
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5682,10 +5681,10 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 117861,
+                    "startOffset": 117862,
                     "endLine": 1621,
                     "endColumn": 12,
-                    "endOffset": 118043
+                    "endOffset": 118044
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5695,10 +5694,10 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 118048,
+                    "startOffset": 118049,
                     "endLine": 1623,
                     "endColumn": 12,
-                    "endOffset": 118145
+                    "endOffset": 118146
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5708,10 +5707,10 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 118150,
+                    "startOffset": 118151,
                     "endLine": 1629,
                     "endColumn": 12,
-                    "endOffset": 118589
+                    "endOffset": 118590
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5721,10 +5720,10 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 118594,
+                    "startOffset": 118595,
                     "endLine": 1631,
                     "endColumn": 12,
-                    "endOffset": 118713
+                    "endOffset": 118714
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5734,10 +5733,10 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 118718,
+                    "startOffset": 118719,
                     "endLine": 1635,
                     "endColumn": 12,
-                    "endOffset": 118988
+                    "endOffset": 118989
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5747,10 +5746,10 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 118993,
+                    "startOffset": 118994,
                     "endLine": 1643,
                     "endColumn": 12,
-                    "endOffset": 119496
+                    "endOffset": 119497
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5760,10 +5759,10 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 119501,
+                    "startOffset": 119502,
                     "endLine": 1651,
                     "endColumn": 12,
-                    "endOffset": 119992
+                    "endOffset": 119993
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5773,10 +5772,10 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 119997,
+                    "startOffset": 119998,
                     "endLine": 1663,
                     "endColumn": 12,
-                    "endOffset": 120869
+                    "endOffset": 120870
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5786,10 +5785,10 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 120874,
+                    "startOffset": 120875,
                     "endLine": 1669,
                     "endColumn": 12,
-                    "endOffset": 121163
+                    "endOffset": 121164
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5799,10 +5798,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 121168,
+                    "startOffset": 121169,
                     "endLine": 1678,
                     "endColumn": 12,
-                    "endOffset": 121733
+                    "endOffset": 121734
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5812,10 +5811,10 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 121738,
+                    "startOffset": 121739,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 121882
+                    "endOffset": 121883
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5825,10 +5824,10 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 121887,
+                    "startOffset": 121888,
                     "endLine": 1692,
                     "endColumn": 12,
-                    "endOffset": 122614
+                    "endOffset": 122615
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5838,10 +5837,10 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 122619,
+                    "startOffset": 122620,
                     "endLine": 1695,
                     "endColumn": 12,
-                    "endOffset": 122786
+                    "endOffset": 122787
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5851,10 +5850,10 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 122791,
+                    "startOffset": 122792,
                     "endLine": 1700,
                     "endColumn": 12,
-                    "endOffset": 123122
+                    "endOffset": 123123
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5864,10 +5863,10 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 123127,
+                    "startOffset": 123128,
                     "endLine": 1714,
                     "endColumn": 12,
-                    "endOffset": 124180
+                    "endOffset": 124181
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5877,10 +5876,10 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 124185,
+                    "startOffset": 124186,
                     "endLine": 1719,
                     "endColumn": 12,
-                    "endOffset": 124458
+                    "endOffset": 124459
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5890,10 +5889,10 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 124463,
+                    "startOffset": 124464,
                     "endLine": 1722,
                     "endColumn": 12,
-                    "endOffset": 124612
+                    "endOffset": 124613
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -5903,10 +5902,10 @@
                 "to": {
                     "startLine": 1723,
                     "startColumn": 4,
-                    "startOffset": 124617,
+                    "startOffset": 124618,
                     "endLine": 1732,
                     "endColumn": 12,
-                    "endOffset": 125203
+                    "endOffset": 125204
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -5916,10 +5915,10 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 125208,
+                    "startOffset": 125209,
                     "endLine": 1774,
                     "endColumn": 12,
-                    "endOffset": 128327
+                    "endOffset": 128328
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5929,10 +5928,10 @@
                 "to": {
                     "startLine": 1775,
                     "startColumn": 4,
-                    "startOffset": 128332,
+                    "startOffset": 128333,
                     "endLine": 1817,
                     "endColumn": 12,
-                    "endOffset": 131594
+                    "endOffset": 131595
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5942,9 +5941,9 @@
                 "to": {
                     "startLine": 1818,
                     "startColumn": 4,
-                    "startOffset": 131599,
+                    "startOffset": 131600,
                     "endColumn": 61,
-                    "endOffset": 131656
+                    "endOffset": 131657
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5954,10 +5953,10 @@
                 "to": {
                     "startLine": 1819,
                     "startColumn": 4,
-                    "startOffset": 131661,
+                    "startOffset": 131662,
                     "endLine": 1828,
                     "endColumn": 12,
-                    "endOffset": 132234
+                    "endOffset": 132235
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5967,10 +5966,10 @@
                 "to": {
                     "startLine": 1829,
                     "startColumn": 4,
-                    "startOffset": 132239,
+                    "startOffset": 132240,
                     "endLine": 1837,
                     "endColumn": 12,
-                    "endOffset": 132818
+                    "endOffset": 132819
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5980,9 +5979,9 @@
                 "to": {
                     "startLine": 1838,
                     "startColumn": 4,
-                    "startOffset": 132823,
+                    "startOffset": 132824,
                     "endColumn": 85,
-                    "endOffset": 132904
+                    "endOffset": 132905
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -5992,10 +5991,10 @@
                 "to": {
                     "startLine": 1839,
                     "startColumn": 4,
-                    "startOffset": 132909,
+                    "startOffset": 132910,
                     "endLine": 1840,
                     "endColumn": 12,
-                    "endOffset": 133017
+                    "endOffset": 133018
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6005,10 +6004,10 @@
                 "to": {
                     "startLine": 1841,
                     "startColumn": 4,
-                    "startOffset": 133022,
+                    "startOffset": 133023,
                     "endLine": 1844,
                     "endColumn": 12,
-                    "endOffset": 133246
+                    "endOffset": 133247
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6018,10 +6017,10 @@
                 "to": {
                     "startLine": 1845,
                     "startColumn": 4,
-                    "startOffset": 133251,
+                    "startOffset": 133252,
                     "endLine": 1847,
                     "endColumn": 12,
-                    "endOffset": 133406
+                    "endOffset": 133407
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6031,10 +6030,10 @@
                 "to": {
                     "startLine": 1848,
                     "startColumn": 4,
-                    "startOffset": 133411,
+                    "startOffset": 133412,
                     "endLine": 1850,
                     "endColumn": 12,
-                    "endOffset": 133558
+                    "endOffset": 133559
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6044,10 +6043,10 @@
                 "to": {
                     "startLine": 1851,
                     "startColumn": 4,
-                    "startOffset": 133563,
+                    "startOffset": 133564,
                     "endLine": 1853,
                     "endColumn": 12,
-                    "endOffset": 133729
+                    "endOffset": 133730
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6057,10 +6056,10 @@
                 "to": {
                     "startLine": 1854,
                     "startColumn": 4,
-                    "startOffset": 133734,
+                    "startOffset": 133735,
                     "endLine": 1856,
                     "endColumn": 12,
-                    "endOffset": 133896
+                    "endOffset": 133897
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6070,10 +6069,10 @@
                 "to": {
                     "startLine": 1857,
                     "startColumn": 4,
-                    "startOffset": 133901,
+                    "startOffset": 133902,
                     "endLine": 1860,
                     "endColumn": 12,
-                    "endOffset": 134139
+                    "endOffset": 134140
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6083,10 +6082,10 @@
                 "to": {
                     "startLine": 1861,
                     "startColumn": 4,
-                    "startOffset": 134144,
+                    "startOffset": 134145,
                     "endLine": 1863,
                     "endColumn": 12,
-                    "endOffset": 134309
+                    "endOffset": 134310
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6096,10 +6095,10 @@
                 "to": {
                     "startLine": 1864,
                     "startColumn": 4,
-                    "startOffset": 134314,
+                    "startOffset": 134315,
                     "endLine": 1866,
                     "endColumn": 12,
-                    "endOffset": 134482
+                    "endOffset": 134483
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6109,10 +6108,10 @@
                 "to": {
                     "startLine": 1867,
                     "startColumn": 4,
-                    "startOffset": 134487,
+                    "startOffset": 134488,
                     "endLine": 1869,
                     "endColumn": 12,
-                    "endOffset": 134653
+                    "endOffset": 134654
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6122,10 +6121,10 @@
                 "to": {
                     "startLine": 1870,
                     "startColumn": 4,
-                    "startOffset": 134658,
+                    "startOffset": 134659,
                     "endLine": 1873,
                     "endColumn": 12,
-                    "endOffset": 134927
+                    "endOffset": 134928
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6135,10 +6134,10 @@
                 "to": {
                     "startLine": 1874,
                     "startColumn": 4,
-                    "startOffset": 134932,
+                    "startOffset": 134933,
                     "endLine": 1876,
                     "endColumn": 12,
-                    "endOffset": 135126
+                    "endOffset": 135127
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6148,10 +6147,10 @@
                 "to": {
                     "startLine": 1877,
                     "startColumn": 4,
-                    "startOffset": 135131,
+                    "startOffset": 135132,
                     "endLine": 1880,
                     "endColumn": 12,
-                    "endOffset": 135331
+                    "endOffset": 135332
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6161,10 +6160,10 @@
                 "to": {
                     "startLine": 1881,
                     "startColumn": 4,
-                    "startOffset": 135336,
+                    "startOffset": 135337,
                     "endLine": 1884,
                     "endColumn": 12,
-                    "endOffset": 135661
+                    "endOffset": 135662
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6174,9 +6173,9 @@
                 "to": {
                     "startLine": 1885,
                     "startColumn": 4,
-                    "startOffset": 135666,
+                    "startOffset": 135667,
                     "endColumn": 83,
-                    "endOffset": 135745
+                    "endOffset": 135746
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6186,9 +6185,9 @@
                 "to": {
                     "startLine": 1886,
                     "startColumn": 4,
-                    "startOffset": 135750,
+                    "startOffset": 135751,
                     "endColumn": 95,
-                    "endOffset": 135841
+                    "endOffset": 135842
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6198,9 +6197,9 @@
                 "to": {
                     "startLine": 1887,
                     "startColumn": 4,
-                    "startOffset": 135846,
+                    "startOffset": 135847,
                     "endColumn": 95,
-                    "endOffset": 135937
+                    "endOffset": 135938
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6210,9 +6209,9 @@
                 "to": {
                     "startLine": 1888,
                     "startColumn": 4,
-                    "startOffset": 135942,
+                    "startOffset": 135943,
                     "endColumn": 97,
-                    "endOffset": 136035
+                    "endOffset": 136036
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6222,9 +6221,9 @@
                 "to": {
                     "startLine": 1889,
                     "startColumn": 4,
-                    "startOffset": 136040,
+                    "startOffset": 136041,
                     "endColumn": 99,
-                    "endOffset": 136135
+                    "endOffset": 136136
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6234,9 +6233,9 @@
                 "to": {
                     "startLine": 1890,
                     "startColumn": 4,
-                    "startOffset": 136140,
+                    "startOffset": 136141,
                     "endColumn": 101,
-                    "endOffset": 136237
+                    "endOffset": 136238
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6246,9 +6245,9 @@
                 "to": {
                     "startLine": 1891,
                     "startColumn": 4,
-                    "startOffset": 136242,
+                    "startOffset": 136243,
                     "endColumn": 101,
-                    "endOffset": 136339
+                    "endOffset": 136340
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6258,9 +6257,9 @@
                 "to": {
                     "startLine": 1892,
                     "startColumn": 4,
-                    "startOffset": 136344,
+                    "startOffset": 136345,
                     "endColumn": 101,
-                    "endOffset": 136441
+                    "endOffset": 136442
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6270,9 +6269,9 @@
                 "to": {
                     "startLine": 1893,
                     "startColumn": 4,
-                    "startOffset": 136446,
+                    "startOffset": 136447,
                     "endColumn": 101,
-                    "endOffset": 136543
+                    "endOffset": 136544
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6282,9 +6281,9 @@
                 "to": {
                     "startLine": 1894,
                     "startColumn": 4,
-                    "startOffset": 136548,
+                    "startOffset": 136549,
                     "endColumn": 101,
-                    "endOffset": 136645
+                    "endOffset": 136646
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6294,9 +6293,9 @@
                 "to": {
                     "startLine": 1895,
                     "startColumn": 4,
-                    "startOffset": 136650,
+                    "startOffset": 136651,
                     "endColumn": 99,
-                    "endOffset": 136745
+                    "endOffset": 136746
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6306,9 +6305,9 @@
                 "to": {
                     "startLine": 1896,
                     "startColumn": 4,
-                    "startOffset": 136750,
+                    "startOffset": 136751,
                     "endColumn": 95,
-                    "endOffset": 136841
+                    "endOffset": 136842
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6318,9 +6317,9 @@
                 "to": {
                     "startLine": 1897,
                     "startColumn": 4,
-                    "startOffset": 136846,
+                    "startOffset": 136847,
                     "endColumn": 111,
-                    "endOffset": 136953
+                    "endOffset": 136954
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6330,9 +6329,9 @@
                 "to": {
                     "startLine": 1898,
                     "startColumn": 4,
-                    "startOffset": 136958,
+                    "startOffset": 136959,
                     "endColumn": 128,
-                    "endOffset": 137082
+                    "endOffset": 137083
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6342,9 +6341,9 @@
                 "to": {
                     "startLine": 1899,
                     "startColumn": 4,
-                    "startOffset": 137087,
+                    "startOffset": 137088,
                     "endColumn": 122,
-                    "endOffset": 137205
+                    "endOffset": 137206
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6354,9 +6353,9 @@
                 "to": {
                     "startLine": 1900,
                     "startColumn": 4,
-                    "startOffset": 137210,
+                    "startOffset": 137211,
                     "endColumn": 130,
-                    "endOffset": 137336
+                    "endOffset": 137337
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6366,9 +6365,9 @@
                 "to": {
                     "startLine": 1901,
                     "startColumn": 4,
-                    "startOffset": 137341,
+                    "startOffset": 137342,
                     "endColumn": 130,
-                    "endOffset": 137467
+                    "endOffset": 137468
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6378,9 +6377,9 @@
                 "to": {
                     "startLine": 1902,
                     "startColumn": 4,
-                    "startOffset": 137472,
+                    "startOffset": 137473,
                     "endColumn": 97,
-                    "endOffset": 137565
+                    "endOffset": 137566
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6390,9 +6389,9 @@
                 "to": {
                     "startLine": 1903,
                     "startColumn": 4,
-                    "startOffset": 137570,
+                    "startOffset": 137571,
                     "endColumn": 113,
-                    "endOffset": 137679
+                    "endOffset": 137680
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6402,9 +6401,9 @@
                 "to": {
                     "startLine": 1904,
                     "startColumn": 4,
-                    "startOffset": 137684,
+                    "startOffset": 137685,
                     "endColumn": 93,
-                    "endOffset": 137773
+                    "endOffset": 137774
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6414,10 +6413,10 @@
                 "to": {
                     "startLine": 1905,
                     "startColumn": 4,
-                    "startOffset": 137778,
+                    "startOffset": 137779,
                     "endLine": 1908,
                     "endColumn": 12,
-                    "endOffset": 137972
+                    "endOffset": 137973
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6427,10 +6426,10 @@
                 "to": {
                     "startLine": 1909,
                     "startColumn": 4,
-                    "startOffset": 137977,
+                    "startOffset": 137978,
                     "endLine": 1912,
                     "endColumn": 12,
-                    "endOffset": 138176
+                    "endOffset": 138177
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6440,9 +6439,9 @@
                 "to": {
                     "startLine": 1913,
                     "startColumn": 4,
-                    "startOffset": 138181,
+                    "startOffset": 138182,
                     "endColumn": 68,
-                    "endOffset": 138245
+                    "endOffset": 138246
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6452,9 +6451,9 @@
                 "to": {
                     "startLine": 1914,
                     "startColumn": 4,
-                    "startOffset": 138250,
+                    "startOffset": 138251,
                     "endColumn": 115,
-                    "endOffset": 138361
+                    "endOffset": 138362
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6464,9 +6463,9 @@
                 "to": {
                     "startLine": 1915,
                     "startColumn": 4,
-                    "startOffset": 138366,
+                    "startOffset": 138367,
                     "endColumn": 127,
-                    "endOffset": 138489
+                    "endOffset": 138490
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6476,9 +6475,9 @@
                 "to": {
                     "startLine": 1916,
                     "startColumn": 4,
-                    "startOffset": 138494,
+                    "startOffset": 138495,
                     "endColumn": 63,
-                    "endOffset": 138553
+                    "endOffset": 138554
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6488,10 +6487,10 @@
                 "to": {
                     "startLine": 1917,
                     "startColumn": 4,
-                    "startOffset": 138558,
+                    "startOffset": 138559,
                     "endLine": 1920,
                     "endColumn": 12,
-                    "endOffset": 138757
+                    "endOffset": 138758
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6501,9 +6500,9 @@
                 "to": {
                     "startLine": 1921,
                     "startColumn": 4,
-                    "startOffset": 138762,
+                    "startOffset": 138763,
                     "endColumn": 68,
-                    "endOffset": 138826
+                    "endOffset": 138827
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6513,10 +6512,10 @@
                 "to": {
                     "startLine": 1922,
                     "startColumn": 4,
-                    "startOffset": 138831,
+                    "startOffset": 138832,
                     "endLine": 1925,
                     "endColumn": 12,
-                    "endOffset": 139029
+                    "endOffset": 139030
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6526,9 +6525,9 @@
                 "to": {
                     "startLine": 1926,
                     "startColumn": 4,
-                    "startOffset": 139034,
+                    "startOffset": 139035,
                     "endColumn": 69,
-                    "endOffset": 139099
+                    "endOffset": 139100
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6538,10 +6537,10 @@
                 "to": {
                     "startLine": 1927,
                     "startColumn": 4,
-                    "startOffset": 139104,
+                    "startOffset": 139105,
                     "endLine": 1928,
                     "endColumn": 12,
-                    "endOffset": 139239
+                    "endOffset": 139240
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6551,10 +6550,10 @@
                 "to": {
                     "startLine": 1929,
                     "startColumn": 4,
-                    "startOffset": 139244,
+                    "startOffset": 139245,
                     "endLine": 1930,
                     "endColumn": 12,
-                    "endOffset": 139373
+                    "endOffset": 139374
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6564,9 +6563,9 @@
                 "to": {
                     "startLine": 1931,
                     "startColumn": 4,
-                    "startOffset": 139378,
+                    "startOffset": 139379,
                     "endColumn": 95,
-                    "endOffset": 139469
+                    "endOffset": 139470
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6576,9 +6575,9 @@
                 "to": {
                     "startLine": 1932,
                     "startColumn": 4,
-                    "startOffset": 139474,
+                    "startOffset": 139475,
                     "endColumn": 111,
-                    "endOffset": 139581
+                    "endOffset": 139582
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6588,9 +6587,9 @@
                 "to": {
                     "startLine": 1933,
                     "startColumn": 4,
-                    "startOffset": 139586,
+                    "startOffset": 139587,
                     "endColumn": 99,
-                    "endOffset": 139681
+                    "endOffset": 139682
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6600,9 +6599,9 @@
                 "to": {
                     "startLine": 1934,
                     "startColumn": 4,
-                    "startOffset": 139686,
+                    "startOffset": 139687,
                     "endColumn": 115,
-                    "endOffset": 139797
+                    "endOffset": 139798
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6612,9 +6611,9 @@
                 "to": {
                     "startLine": 1935,
                     "startColumn": 4,
-                    "startOffset": 139802,
+                    "startOffset": 139803,
                     "endColumn": 95,
-                    "endOffset": 139893
+                    "endOffset": 139894
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6624,9 +6623,9 @@
                 "to": {
                     "startLine": 1936,
                     "startColumn": 4,
-                    "startOffset": 139898,
+                    "startOffset": 139899,
                     "endColumn": 111,
-                    "endOffset": 140005
+                    "endOffset": 140006
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6636,10 +6635,10 @@
                 "to": {
                     "startLine": 1937,
                     "startColumn": 4,
-                    "startOffset": 140010,
+                    "startOffset": 140011,
                     "endLine": 1938,
                     "endColumn": 12,
-                    "endOffset": 140145
+                    "endOffset": 140146
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6649,9 +6648,9 @@
                 "to": {
                     "startLine": 1939,
                     "startColumn": 4,
-                    "startOffset": 140150,
+                    "startOffset": 140151,
                     "endColumn": 135,
-                    "endOffset": 140281
+                    "endOffset": 140282
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6661,10 +6660,10 @@
                 "to": {
                     "startLine": 1940,
                     "startColumn": 4,
-                    "startOffset": 140286,
+                    "startOffset": 140287,
                     "endLine": 1941,
                     "endColumn": 12,
-                    "endOffset": 140445
+                    "endOffset": 140446
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6674,9 +6673,9 @@
                 "to": {
                     "startLine": 1942,
                     "startColumn": 4,
-                    "startOffset": 140450,
+                    "startOffset": 140451,
                     "endColumn": 129,
-                    "endOffset": 140575
+                    "endOffset": 140576
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6686,10 +6685,10 @@
                 "to": {
                     "startLine": 1943,
                     "startColumn": 4,
-                    "startOffset": 140580,
+                    "startOffset": 140581,
                     "endLine": 1944,
                     "endColumn": 12,
-                    "endOffset": 140733
+                    "endOffset": 140734
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6699,10 +6698,10 @@
                 "to": {
                     "startLine": 1945,
                     "startColumn": 4,
-                    "startOffset": 140738,
+                    "startOffset": 140739,
                     "endLine": 1946,
                     "endColumn": 12,
-                    "endOffset": 140883
+                    "endOffset": 140884
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6712,9 +6711,9 @@
                 "to": {
                     "startLine": 1947,
                     "startColumn": 4,
-                    "startOffset": 140888,
+                    "startOffset": 140889,
                     "endColumn": 140,
-                    "endOffset": 141024
+                    "endOffset": 141025
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6724,10 +6723,10 @@
                 "to": {
                     "startLine": 1948,
                     "startColumn": 4,
-                    "startOffset": 141029,
+                    "startOffset": 141030,
                     "endLine": 1949,
                     "endColumn": 12,
-                    "endOffset": 141168
+                    "endOffset": 141169
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6737,9 +6736,9 @@
                 "to": {
                     "startLine": 1950,
                     "startColumn": 4,
-                    "startOffset": 141173,
+                    "startOffset": 141174,
                     "endColumn": 134,
-                    "endOffset": 141303
+                    "endOffset": 141304
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6749,9 +6748,9 @@
                 "to": {
                     "startLine": 1951,
                     "startColumn": 4,
-                    "startOffset": 141308,
+                    "startOffset": 141309,
                     "endColumn": 111,
-                    "endOffset": 141415
+                    "endOffset": 141416
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6761,9 +6760,9 @@
                 "to": {
                     "startLine": 1952,
                     "startColumn": 4,
-                    "startOffset": 141420,
+                    "startOffset": 141421,
                     "endColumn": 149,
-                    "endOffset": 141565
+                    "endOffset": 141566
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6773,9 +6772,9 @@
                 "to": {
                     "startLine": 1953,
                     "startColumn": 4,
-                    "startOffset": 141570,
+                    "startOffset": 141571,
                     "endColumn": 127,
-                    "endOffset": 141693
+                    "endOffset": 141694
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6785,9 +6784,9 @@
                 "to": {
                     "startLine": 1954,
                     "startColumn": 4,
-                    "startOffset": 141698,
+                    "startOffset": 141699,
                     "endColumn": 127,
-                    "endOffset": 141821
+                    "endOffset": 141822
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6797,10 +6796,10 @@
                 "to": {
                     "startLine": 1955,
                     "startColumn": 4,
-                    "startOffset": 141826,
+                    "startOffset": 141827,
                     "endLine": 1956,
                     "endColumn": 12,
-                    "endOffset": 141957
+                    "endOffset": 141958
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6810,9 +6809,9 @@
                 "to": {
                     "startLine": 1957,
                     "startColumn": 4,
-                    "startOffset": 141962,
+                    "startOffset": 141963,
                     "endColumn": 131,
-                    "endOffset": 142089
+                    "endOffset": 142090
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6822,9 +6821,9 @@
                 "to": {
                     "startLine": 1958,
                     "startColumn": 4,
-                    "startOffset": 142094,
+                    "startOffset": 142095,
                     "endColumn": 129,
-                    "endOffset": 142219
+                    "endOffset": 142220
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6834,9 +6833,9 @@
                 "to": {
                     "startLine": 1959,
                     "startColumn": 4,
-                    "startOffset": 142224,
+                    "startOffset": 142225,
                     "endColumn": 129,
-                    "endOffset": 142349
+                    "endOffset": 142350
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6846,9 +6845,9 @@
                 "to": {
                     "startLine": 1960,
                     "startColumn": 4,
-                    "startOffset": 142354,
+                    "startOffset": 142355,
                     "endColumn": 111,
-                    "endOffset": 142461
+                    "endOffset": 142462
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6858,9 +6857,9 @@
                 "to": {
                     "startLine": 1961,
                     "startColumn": 4,
-                    "startOffset": 142466,
+                    "startOffset": 142467,
                     "endColumn": 139,
-                    "endOffset": 142601
+                    "endOffset": 142602
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6870,10 +6869,10 @@
                 "to": {
                     "startLine": 1962,
                     "startColumn": 4,
-                    "startOffset": 142606,
+                    "startOffset": 142607,
                     "endLine": 1964,
                     "endColumn": 12,
-                    "endOffset": 142802
+                    "endOffset": 142803
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6883,9 +6882,9 @@
                 "to": {
                     "startLine": 1965,
                     "startColumn": 4,
-                    "startOffset": 142807,
+                    "startOffset": 142808,
                     "endColumn": 91,
-                    "endOffset": 142894
+                    "endOffset": 142895
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6895,10 +6894,10 @@
                 "to": {
                     "startLine": 1966,
                     "startColumn": 4,
-                    "startOffset": 142899,
+                    "startOffset": 142900,
                     "endLine": 1968,
                     "endColumn": 12,
-                    "endOffset": 143073
+                    "endOffset": 143074
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6908,10 +6907,10 @@
                 "to": {
                     "startLine": 1969,
                     "startColumn": 4,
-                    "startOffset": 143078,
+                    "startOffset": 143079,
                     "endLine": 1971,
                     "endColumn": 12,
-                    "endOffset": 143241
+                    "endOffset": 143242
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6921,10 +6920,10 @@
                 "to": {
                     "startLine": 1972,
                     "startColumn": 4,
-                    "startOffset": 143246,
+                    "startOffset": 143247,
                     "endLine": 1974,
                     "endColumn": 12,
-                    "endOffset": 143416
+                    "endOffset": 143417
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6934,10 +6933,10 @@
                 "to": {
                     "startLine": 1975,
                     "startColumn": 4,
-                    "startOffset": 143421,
+                    "startOffset": 143422,
                     "endLine": 1978,
                     "endColumn": 12,
-                    "endOffset": 143669
+                    "endOffset": 143670
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6947,10 +6946,10 @@
                 "to": {
                     "startLine": 1979,
                     "startColumn": 4,
-                    "startOffset": 143674,
+                    "startOffset": 143675,
                     "endLine": 1983,
                     "endColumn": 12,
-                    "endOffset": 143960
+                    "endOffset": 143961
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -6960,9 +6959,9 @@
                 "to": {
                     "startLine": 1984,
                     "startColumn": 4,
-                    "startOffset": 143965,
+                    "startOffset": 143966,
                     "endColumn": 67,
-                    "endOffset": 144028
+                    "endOffset": 144029
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6972,9 +6971,9 @@
                 "to": {
                     "startLine": 1985,
                     "startColumn": 4,
-                    "startOffset": 144033,
+                    "startOffset": 144034,
                     "endColumn": 72,
-                    "endOffset": 144101
+                    "endOffset": 144102
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6984,9 +6983,9 @@
                 "to": {
                     "startLine": 1986,
                     "startColumn": 4,
-                    "startOffset": 144106,
+                    "startOffset": 144107,
                     "endColumn": 73,
-                    "endOffset": 144175
+                    "endOffset": 144176
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -6996,9 +6995,9 @@
                 "to": {
                     "startLine": 1987,
                     "startColumn": 4,
-                    "startOffset": 144180,
+                    "startOffset": 144181,
                     "endColumn": 72,
-                    "endOffset": 144248
+                    "endOffset": 144249
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7008,9 +7007,9 @@
                 "to": {
                     "startLine": 1988,
                     "startColumn": 4,
-                    "startOffset": 144253,
+                    "startOffset": 144254,
                     "endColumn": 73,
-                    "endOffset": 144322
+                    "endOffset": 144323
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7020,10 +7019,10 @@
                 "to": {
                     "startLine": 1989,
                     "startColumn": 4,
-                    "startOffset": 144327,
+                    "startOffset": 144328,
                     "endLine": 1990,
                     "endColumn": 12,
-                    "endOffset": 144468
+                    "endOffset": 144469
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7033,10 +7032,10 @@
                 "to": {
                     "startLine": 1991,
                     "startColumn": 4,
-                    "startOffset": 144473,
+                    "startOffset": 144474,
                     "endLine": 1992,
                     "endColumn": 12,
-                    "endOffset": 144612
+                    "endOffset": 144613
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7046,10 +7045,10 @@
                 "to": {
                     "startLine": 1993,
                     "startColumn": 4,
-                    "startOffset": 144617,
+                    "startOffset": 144618,
                     "endLine": 1994,
                     "endColumn": 12,
-                    "endOffset": 144750
+                    "endOffset": 144751
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7059,9 +7058,9 @@
                 "to": {
                     "startLine": 1995,
                     "startColumn": 4,
-                    "startOffset": 144755,
+                    "startOffset": 144756,
                     "endColumn": 65,
-                    "endOffset": 144816
+                    "endOffset": 144817
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7071,9 +7070,9 @@
                 "to": {
                     "startLine": 1996,
                     "startColumn": 4,
-                    "startOffset": 144821,
+                    "startOffset": 144822,
                     "endColumn": 89,
-                    "endOffset": 144906
+                    "endOffset": 144907
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7083,9 +7082,9 @@
                 "to": {
                     "startLine": 1997,
                     "startColumn": 4,
-                    "startOffset": 144911,
+                    "startOffset": 144912,
                     "endColumn": 75,
-                    "endOffset": 144982
+                    "endOffset": 144983
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7095,9 +7094,9 @@
                 "to": {
                     "startLine": 1998,
                     "startColumn": 4,
-                    "startOffset": 144987,
+                    "startOffset": 144988,
                     "endColumn": 103,
-                    "endOffset": 145086
+                    "endOffset": 145087
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7107,9 +7106,9 @@
                 "to": {
                     "startLine": 1999,
                     "startColumn": 4,
-                    "startOffset": 145091,
+                    "startOffset": 145092,
                     "endColumn": 89,
-                    "endOffset": 145176
+                    "endOffset": 145177
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7119,9 +7118,9 @@
                 "to": {
                     "startLine": 2000,
                     "startColumn": 4,
-                    "startOffset": 145181,
+                    "startOffset": 145182,
                     "endColumn": 101,
-                    "endOffset": 145278
+                    "endOffset": 145279
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7131,9 +7130,9 @@
                 "to": {
                     "startLine": 2001,
                     "startColumn": 4,
-                    "startOffset": 145283,
+                    "startOffset": 145284,
                     "endColumn": 107,
-                    "endOffset": 145386
+                    "endOffset": 145387
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7143,9 +7142,9 @@
                 "to": {
                     "startLine": 2002,
                     "startColumn": 4,
-                    "startOffset": 145391,
+                    "startOffset": 145392,
                     "endColumn": 107,
-                    "endOffset": 145494
+                    "endOffset": 145495
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7155,9 +7154,9 @@
                 "to": {
                     "startLine": 2003,
                     "startColumn": 4,
-                    "startOffset": 145499,
+                    "startOffset": 145500,
                     "endColumn": 99,
-                    "endOffset": 145594
+                    "endOffset": 145595
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7167,9 +7166,9 @@
                 "to": {
                     "startLine": 2004,
                     "startColumn": 4,
-                    "startOffset": 145599,
+                    "startOffset": 145600,
                     "endColumn": 79,
-                    "endOffset": 145674
+                    "endOffset": 145675
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7179,9 +7178,9 @@
                 "to": {
                     "startLine": 2005,
                     "startColumn": 4,
-                    "startOffset": 145679,
+                    "startOffset": 145680,
                     "endColumn": 91,
-                    "endOffset": 145766
+                    "endOffset": 145767
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7191,9 +7190,9 @@
                 "to": {
                     "startLine": 2006,
                     "startColumn": 4,
-                    "startOffset": 145771,
+                    "startOffset": 145772,
                     "endColumn": 97,
-                    "endOffset": 145864
+                    "endOffset": 145865
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7203,10 +7202,10 @@
                 "to": {
                     "startLine": 2007,
                     "startColumn": 4,
-                    "startOffset": 145869,
+                    "startOffset": 145870,
                     "endLine": 2008,
                     "endColumn": 12,
-                    "endOffset": 145974
+                    "endOffset": 145975
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7216,9 +7215,9 @@
                 "to": {
                     "startLine": 2009,
                     "startColumn": 4,
-                    "startOffset": 145979,
+                    "startOffset": 145980,
                     "endColumn": 77,
-                    "endOffset": 146052
+                    "endOffset": 146053
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7228,9 +7227,9 @@
                 "to": {
                     "startLine": 2010,
                     "startColumn": 4,
-                    "startOffset": 146057,
+                    "startOffset": 146058,
                     "endColumn": 105,
-                    "endOffset": 146158
+                    "endOffset": 146159
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7240,9 +7239,9 @@
                 "to": {
                     "startLine": 2011,
                     "startColumn": 4,
-                    "startOffset": 146163,
+                    "startOffset": 146164,
                     "endColumn": 91,
-                    "endOffset": 146250
+                    "endOffset": 146251
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7252,9 +7251,9 @@
                 "to": {
                     "startLine": 2012,
                     "startColumn": 4,
-                    "startOffset": 146255,
+                    "startOffset": 146256,
                     "endColumn": 103,
-                    "endOffset": 146354
+                    "endOffset": 146355
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7264,9 +7263,9 @@
                 "to": {
                     "startLine": 2013,
                     "startColumn": 4,
-                    "startOffset": 146359,
+                    "startOffset": 146360,
                     "endColumn": 109,
-                    "endOffset": 146464
+                    "endOffset": 146465
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7276,10 +7275,10 @@
                 "to": {
                     "startLine": 2014,
                     "startColumn": 4,
-                    "startOffset": 146469,
+                    "startOffset": 146470,
                     "endLine": 2015,
                     "endColumn": 12,
-                    "endOffset": 146586
+                    "endOffset": 146587
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7289,10 +7288,10 @@
                 "to": {
                     "startLine": 2016,
                     "startColumn": 4,
-                    "startOffset": 146591,
+                    "startOffset": 146592,
                     "endLine": 2019,
                     "endColumn": 12,
-                    "endOffset": 146749
+                    "endOffset": 146750
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7302,10 +7301,10 @@
                 "to": {
                     "startLine": 2020,
                     "startColumn": 4,
-                    "startOffset": 146754,
+                    "startOffset": 146755,
                     "endLine": 2023,
                     "endColumn": 12,
-                    "endOffset": 146906
+                    "endOffset": 146907
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7315,10 +7314,10 @@
                 "to": {
                     "startLine": 2024,
                     "startColumn": 4,
-                    "startOffset": 146911,
+                    "startOffset": 146912,
                     "endLine": 2026,
                     "endColumn": 12,
-                    "endOffset": 147060
+                    "endOffset": 147061
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -7328,10 +7327,10 @@
                 "to": {
                     "startLine": 2027,
                     "startColumn": 4,
-                    "startOffset": 147065,
+                    "startOffset": 147066,
                     "endLine": 2031,
                     "endColumn": 12,
-                    "endOffset": 147418
+                    "endOffset": 147419
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -7341,10 +7340,10 @@
                 "to": {
                     "startLine": 2032,
                     "startColumn": 4,
-                    "startOffset": 147423,
+                    "startOffset": 147424,
                     "endLine": 2034,
                     "endColumn": 12,
-                    "endOffset": 147585
+                    "endOffset": 147586
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -7354,10 +7353,10 @@
                 "to": {
                     "startLine": 2035,
                     "startColumn": 4,
-                    "startOffset": 147590,
+                    "startOffset": 147591,
                     "endLine": 2039,
                     "endColumn": 12,
-                    "endOffset": 147955
+                    "endOffset": 147956
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -7367,10 +7366,10 @@
                 "to": {
                     "startLine": 2040,
                     "startColumn": 4,
-                    "startOffset": 147960,
+                    "startOffset": 147961,
                     "endLine": 2043,
                     "endColumn": 12,
-                    "endOffset": 148115
+                    "endOffset": 148116
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -7380,10 +7379,10 @@
                 "to": {
                     "startLine": 2044,
                     "startColumn": 4,
-                    "startOffset": 148120,
+                    "startOffset": 148121,
                     "endLine": 2047,
                     "endColumn": 12,
-                    "endOffset": 148269
+                    "endOffset": 148270
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -7393,9 +7392,9 @@
                 "to": {
                     "startLine": 2048,
                     "startColumn": 4,
-                    "startOffset": 148274,
+                    "startOffset": 148275,
                     "endColumn": 79,
-                    "endOffset": 148349
+                    "endOffset": 148350
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7405,9 +7404,9 @@
                 "to": {
                     "startLine": 2049,
                     "startColumn": 4,
-                    "startOffset": 148354,
+                    "startOffset": 148355,
                     "endColumn": 99,
-                    "endOffset": 148449
+                    "endOffset": 148450
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7417,9 +7416,9 @@
                 "to": {
                     "startLine": 2050,
                     "startColumn": 4,
-                    "startOffset": 148454,
+                    "startOffset": 148455,
                     "endColumn": 89,
-                    "endOffset": 148539
+                    "endOffset": 148540
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7429,9 +7428,9 @@
                 "to": {
                     "startLine": 2051,
                     "startColumn": 4,
-                    "startOffset": 148544,
+                    "startOffset": 148545,
                     "endColumn": 109,
-                    "endOffset": 148649
+                    "endOffset": 148650
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7441,9 +7440,9 @@
                 "to": {
                     "startLine": 2052,
                     "startColumn": 4,
-                    "startOffset": 148654,
+                    "startOffset": 148655,
                     "endColumn": 93,
-                    "endOffset": 148743
+                    "endOffset": 148744
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7453,9 +7452,9 @@
                 "to": {
                     "startLine": 2053,
                     "startColumn": 4,
-                    "startOffset": 148748,
+                    "startOffset": 148749,
                     "endColumn": 105,
-                    "endOffset": 148849
+                    "endOffset": 148850
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7465,9 +7464,9 @@
                 "to": {
                     "startLine": 2054,
                     "startColumn": 4,
-                    "startOffset": 148854,
+                    "startOffset": 148855,
                     "endColumn": 91,
-                    "endOffset": 148941
+                    "endOffset": 148942
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7477,10 +7476,10 @@
                 "to": {
                     "startLine": 2055,
                     "startColumn": 4,
-                    "startOffset": 148946,
+                    "startOffset": 148947,
                     "endLine": 2056,
                     "endColumn": 12,
-                    "endOffset": 149041
+                    "endOffset": 149042
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7490,10 +7489,10 @@
                 "to": {
                     "startLine": 2057,
                     "startColumn": 4,
-                    "startOffset": 149046,
+                    "startOffset": 149047,
                     "endLine": 2058,
                     "endColumn": 12,
-                    "endOffset": 149153
+                    "endOffset": 149154
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7503,10 +7502,10 @@
                 "to": {
                     "startLine": 2059,
                     "startColumn": 4,
-                    "startOffset": 149158,
+                    "startOffset": 149159,
                     "endLine": 2060,
                     "endColumn": 12,
-                    "endOffset": 149267
+                    "endOffset": 149268
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7516,10 +7515,10 @@
                 "to": {
                     "startLine": 2061,
                     "startColumn": 4,
-                    "startOffset": 149272,
+                    "startOffset": 149273,
                     "endLine": 2062,
                     "endColumn": 12,
-                    "endOffset": 149383
+                    "endOffset": 149384
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7529,10 +7528,10 @@
                 "to": {
                     "startLine": 2063,
                     "startColumn": 4,
-                    "startOffset": 149388,
+                    "startOffset": 149389,
                     "endLine": 2064,
                     "endColumn": 12,
-                    "endOffset": 149499
+                    "endOffset": 149500
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7542,9 +7541,9 @@
                 "to": {
                     "startLine": 2065,
                     "startColumn": 4,
-                    "startOffset": 149504,
+                    "startOffset": 149505,
                     "endColumn": 93,
-                    "endOffset": 149593
+                    "endOffset": 149594
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7554,9 +7553,9 @@
                 "to": {
                     "startLine": 2066,
                     "startColumn": 4,
-                    "startOffset": 149598,
+                    "startOffset": 149599,
                     "endColumn": 113,
-                    "endOffset": 149707
+                    "endOffset": 149708
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7566,9 +7565,9 @@
                 "to": {
                     "startLine": 2067,
                     "startColumn": 4,
-                    "startOffset": 149712,
+                    "startOffset": 149713,
                     "endColumn": 111,
-                    "endOffset": 149819
+                    "endOffset": 149820
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7578,10 +7577,10 @@
                 "to": {
                     "startLine": 2068,
                     "startColumn": 4,
-                    "startOffset": 149824,
+                    "startOffset": 149825,
                     "endLine": 2069,
                     "endColumn": 12,
-                    "endOffset": 149921
+                    "endOffset": 149922
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7591,10 +7590,10 @@
                 "to": {
                     "startLine": 2070,
                     "startColumn": 4,
-                    "startOffset": 149926,
+                    "startOffset": 149927,
                     "endLine": 2071,
                     "endColumn": 12,
-                    "endOffset": 150041
+                    "endOffset": 150042
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7604,10 +7603,10 @@
                 "to": {
                     "startLine": 2072,
                     "startColumn": 4,
-                    "startOffset": 150046,
+                    "startOffset": 150047,
                     "endLine": 2073,
                     "endColumn": 12,
-                    "endOffset": 150163
+                    "endOffset": 150164
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7617,9 +7616,9 @@
                 "to": {
                     "startLine": 2074,
                     "startColumn": 4,
-                    "startOffset": 150168,
+                    "startOffset": 150169,
                     "endColumn": 81,
-                    "endOffset": 150245
+                    "endOffset": 150246
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7629,9 +7628,9 @@
                 "to": {
                     "startLine": 2075,
                     "startColumn": 4,
-                    "startOffset": 150250,
+                    "startOffset": 150251,
                     "endColumn": 103,
-                    "endOffset": 150349
+                    "endOffset": 150350
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7641,9 +7640,9 @@
                 "to": {
                     "startLine": 2076,
                     "startColumn": 4,
-                    "startOffset": 150354,
+                    "startOffset": 150355,
                     "endColumn": 119,
-                    "endOffset": 150469
+                    "endOffset": 150470
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7653,9 +7652,9 @@
                 "to": {
                     "startLine": 2077,
                     "startColumn": 4,
-                    "startOffset": 150474,
+                    "startOffset": 150475,
                     "endColumn": 125,
-                    "endOffset": 150595
+                    "endOffset": 150596
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7665,9 +7664,9 @@
                 "to": {
                     "startLine": 2078,
                     "startColumn": 4,
-                    "startOffset": 150600,
+                    "startOffset": 150601,
                     "endColumn": 97,
-                    "endOffset": 150693
+                    "endOffset": 150694
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7677,9 +7676,9 @@
                 "to": {
                     "startLine": 2079,
                     "startColumn": 4,
-                    "startOffset": 150698,
+                    "startOffset": 150699,
                     "endColumn": 93,
-                    "endOffset": 150787
+                    "endOffset": 150788
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7689,9 +7688,9 @@
                 "to": {
                     "startLine": 2080,
                     "startColumn": 4,
-                    "startOffset": 150792,
+                    "startOffset": 150793,
                     "endColumn": 87,
-                    "endOffset": 150875
+                    "endOffset": 150876
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7701,9 +7700,9 @@
                 "to": {
                     "startLine": 2081,
                     "startColumn": 4,
-                    "startOffset": 150880,
+                    "startOffset": 150881,
                     "endColumn": 111,
-                    "endOffset": 150987
+                    "endOffset": 150988
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7713,9 +7712,9 @@
                 "to": {
                     "startLine": 2082,
                     "startColumn": 4,
-                    "startOffset": 150992,
+                    "startOffset": 150993,
                     "endColumn": 115,
-                    "endOffset": 151103
+                    "endOffset": 151104
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7725,9 +7724,9 @@
                 "to": {
                     "startLine": 2083,
                     "startColumn": 4,
-                    "startOffset": 151108,
+                    "startOffset": 151109,
                     "endColumn": 121,
-                    "endOffset": 151225
+                    "endOffset": 151226
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7737,9 +7736,9 @@
                 "to": {
                     "startLine": 2084,
                     "startColumn": 4,
-                    "startOffset": 151230,
+                    "startOffset": 151231,
                     "endColumn": 111,
-                    "endOffset": 151337
+                    "endOffset": 151338
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7749,10 +7748,10 @@
                 "to": {
                     "startLine": 2085,
                     "startColumn": 4,
-                    "startOffset": 151342,
+                    "startOffset": 151343,
                     "endLine": 2087,
                     "endColumn": 12,
-                    "endOffset": 151512
+                    "endOffset": 151513
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7762,9 +7761,9 @@
                 "to": {
                     "startLine": 2088,
                     "startColumn": 4,
-                    "startOffset": 151517,
+                    "startOffset": 151518,
                     "endColumn": 115,
-                    "endOffset": 151628
+                    "endOffset": 151629
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7774,9 +7773,9 @@
                 "to": {
                     "startLine": 2089,
                     "startColumn": 4,
-                    "startOffset": 151633,
+                    "startOffset": 151634,
                     "endColumn": 85,
-                    "endOffset": 151714
+                    "endOffset": 151715
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7786,9 +7785,9 @@
                 "to": {
                     "startLine": 2090,
                     "startColumn": 4,
-                    "startOffset": 151719,
+                    "startOffset": 151720,
                     "endColumn": 91,
-                    "endOffset": 151806
+                    "endOffset": 151807
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7798,10 +7797,10 @@
                 "to": {
                     "startLine": 2091,
                     "startColumn": 4,
-                    "startOffset": 151811,
+                    "startOffset": 151812,
                     "endLine": 2092,
                     "endColumn": 12,
-                    "endOffset": 151918
+                    "endOffset": 151919
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7811,10 +7810,10 @@
                 "to": {
                     "startLine": 2093,
                     "startColumn": 4,
-                    "startOffset": 151923,
+                    "startOffset": 151924,
                     "endLine": 2094,
                     "endColumn": 12,
-                    "endOffset": 152042
+                    "endOffset": 152043
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7824,9 +7823,9 @@
                 "to": {
                     "startLine": 2095,
                     "startColumn": 4,
-                    "startOffset": 152047,
+                    "startOffset": 152048,
                     "endColumn": 66,
-                    "endOffset": 152109
+                    "endOffset": 152110
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7836,10 +7835,10 @@
                 "to": {
                     "startLine": 2096,
                     "startColumn": 4,
-                    "startOffset": 152114,
+                    "startOffset": 152115,
                     "endLine": 2097,
                     "endColumn": 12,
-                    "endOffset": 152235
+                    "endOffset": 152236
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7849,9 +7848,9 @@
                 "to": {
                     "startLine": 2098,
                     "startColumn": 4,
-                    "startOffset": 152240,
+                    "startOffset": 152241,
                     "endColumn": 67,
-                    "endOffset": 152303
+                    "endOffset": 152304
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7861,10 +7860,10 @@
                 "to": {
                     "startLine": 2099,
                     "startColumn": 4,
-                    "startOffset": 152308,
+                    "startOffset": 152309,
                     "endLine": 2100,
                     "endColumn": 12,
-                    "endOffset": 152431
+                    "endOffset": 152432
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7874,10 +7873,10 @@
                 "to": {
                     "startLine": 2101,
                     "startColumn": 4,
-                    "startOffset": 152436,
+                    "startOffset": 152437,
                     "endLine": 2102,
                     "endColumn": 12,
-                    "endOffset": 152575
+                    "endOffset": 152576
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7887,10 +7886,10 @@
                 "to": {
                     "startLine": 2103,
                     "startColumn": 4,
-                    "startOffset": 152580,
+                    "startOffset": 152581,
                     "endLine": 2104,
                     "endColumn": 12,
-                    "endOffset": 152703
+                    "endOffset": 152704
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7900,9 +7899,9 @@
                 "to": {
                     "startLine": 2105,
                     "startColumn": 4,
-                    "startOffset": 152708,
+                    "startOffset": 152709,
                     "endColumn": 68,
-                    "endOffset": 152772
+                    "endOffset": 152773
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7912,9 +7911,9 @@
                 "to": {
                     "startLine": 2106,
                     "startColumn": 4,
-                    "startOffset": 152777,
+                    "startOffset": 152778,
                     "endColumn": 94,
-                    "endOffset": 152867
+                    "endOffset": 152868
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7924,9 +7923,9 @@
                 "to": {
                     "startLine": 2107,
                     "startColumn": 4,
-                    "startOffset": 152872,
+                    "startOffset": 152873,
                     "endColumn": 114,
-                    "endOffset": 152982
+                    "endOffset": 152983
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7936,9 +7935,9 @@
                 "to": {
                     "startLine": 2108,
                     "startColumn": 4,
-                    "startOffset": 152987,
+                    "startOffset": 152988,
                     "endColumn": 112,
-                    "endOffset": 153095
+                    "endOffset": 153096
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7948,9 +7947,9 @@
                 "to": {
                     "startLine": 2109,
                     "startColumn": 4,
-                    "startOffset": 153100,
+                    "startOffset": 153101,
                     "endColumn": 98,
-                    "endOffset": 153194
+                    "endOffset": 153195
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7960,9 +7959,9 @@
                 "to": {
                     "startLine": 2110,
                     "startColumn": 4,
-                    "startOffset": 153199,
+                    "startOffset": 153200,
                     "endColumn": 108,
-                    "endOffset": 153303
+                    "endOffset": 153304
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7972,9 +7971,9 @@
                 "to": {
                     "startLine": 2111,
                     "startColumn": 4,
-                    "startOffset": 153308,
+                    "startOffset": 153309,
                     "endColumn": 110,
-                    "endOffset": 153414
+                    "endOffset": 153415
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7984,9 +7983,9 @@
                 "to": {
                     "startLine": 2112,
                     "startColumn": 4,
-                    "startOffset": 153419,
+                    "startOffset": 153420,
                     "endColumn": 110,
-                    "endOffset": 153525
+                    "endOffset": 153526
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -7996,9 +7995,9 @@
                 "to": {
                     "startLine": 2113,
                     "startColumn": 4,
-                    "startOffset": 153530,
+                    "startOffset": 153531,
                     "endColumn": 100,
-                    "endOffset": 153626
+                    "endOffset": 153627
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8008,9 +8007,9 @@
                 "to": {
                     "startLine": 2114,
                     "startColumn": 4,
-                    "startOffset": 153631,
+                    "startOffset": 153632,
                     "endColumn": 104,
-                    "endOffset": 153731
+                    "endOffset": 153732
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8020,9 +8019,9 @@
                 "to": {
                     "startLine": 2115,
                     "startColumn": 4,
-                    "startOffset": 153736,
+                    "startOffset": 153737,
                     "endColumn": 99,
-                    "endOffset": 153831
+                    "endOffset": 153832
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8032,10 +8031,10 @@
                 "to": {
                     "startLine": 2116,
                     "startColumn": 4,
-                    "startOffset": 153836,
+                    "startOffset": 153837,
                     "endLine": 2117,
                     "endColumn": 12,
-                    "endOffset": 153961
+                    "endOffset": 153962
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8045,9 +8044,9 @@
                 "to": {
                     "startLine": 2118,
                     "startColumn": 4,
-                    "startOffset": 153966,
+                    "startOffset": 153967,
                     "endColumn": 90,
-                    "endOffset": 154052
+                    "endOffset": 154053
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8057,9 +8056,9 @@
                 "to": {
                     "startLine": 2119,
                     "startColumn": 4,
-                    "startOffset": 154057,
+                    "startOffset": 154058,
                     "endColumn": 122,
-                    "endOffset": 154175
+                    "endOffset": 154176
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8069,9 +8068,9 @@
                 "to": {
                     "startLine": 2120,
                     "startColumn": 4,
-                    "startOffset": 154180,
+                    "startOffset": 154181,
                     "endColumn": 93,
-                    "endOffset": 154269
+                    "endOffset": 154270
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8081,10 +8080,10 @@
                 "to": {
                     "startLine": 2121,
                     "startColumn": 4,
-                    "startOffset": 154274,
+                    "startOffset": 154275,
                     "endLine": 2122,
                     "endColumn": 12,
-                    "endOffset": 154381
+                    "endOffset": 154382
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8094,9 +8093,9 @@
                 "to": {
                     "startLine": 2123,
                     "startColumn": 4,
-                    "startOffset": 154386,
+                    "startOffset": 154387,
                     "endColumn": 85,
-                    "endOffset": 154467
+                    "endOffset": 154468
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8106,9 +8105,9 @@
                 "to": {
                     "startLine": 2124,
                     "startColumn": 4,
-                    "startOffset": 154472,
+                    "startOffset": 154473,
                     "endColumn": 103,
-                    "endOffset": 154571
+                    "endOffset": 154572
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8118,9 +8117,9 @@
                 "to": {
                     "startLine": 2125,
                     "startColumn": 4,
-                    "startOffset": 154576,
+                    "startOffset": 154577,
                     "endColumn": 95,
-                    "endOffset": 154667
+                    "endOffset": 154668
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8130,9 +8129,9 @@
                 "to": {
                     "startLine": 2126,
                     "startColumn": 4,
-                    "startOffset": 154672,
+                    "startOffset": 154673,
                     "endColumn": 74,
-                    "endOffset": 154742
+                    "endOffset": 154743
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8142,9 +8141,9 @@
                 "to": {
                     "startLine": 2127,
                     "startColumn": 4,
-                    "startOffset": 154747,
+                    "startOffset": 154748,
                     "endColumn": 69,
-                    "endOffset": 154812
+                    "endOffset": 154813
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8154,9 +8153,9 @@
                 "to": {
                     "startLine": 2128,
                     "startColumn": 4,
-                    "startOffset": 154817,
+                    "startOffset": 154818,
                     "endColumn": 87,
-                    "endOffset": 154900
+                    "endOffset": 154901
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8166,10 +8165,10 @@
                 "to": {
                     "startLine": 2129,
                     "startColumn": 4,
-                    "startOffset": 154905,
+                    "startOffset": 154906,
                     "endLine": 2130,
                     "endColumn": 12,
-                    "endOffset": 155018
+                    "endOffset": 155019
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8179,10 +8178,10 @@
                 "to": {
                     "startLine": 2131,
                     "startColumn": 4,
-                    "startOffset": 155023,
+                    "startOffset": 155024,
                     "endLine": 2132,
                     "endColumn": 12,
-                    "endOffset": 155122
+                    "endOffset": 155123
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8192,10 +8191,10 @@
                 "to": {
                     "startLine": 2133,
                     "startColumn": 4,
-                    "startOffset": 155127,
+                    "startOffset": 155128,
                     "endLine": 2134,
                     "endColumn": 12,
-                    "endOffset": 155226
+                    "endOffset": 155227
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8205,10 +8204,10 @@
                 "to": {
                     "startLine": 2135,
                     "startColumn": 4,
-                    "startOffset": 155231,
+                    "startOffset": 155232,
                     "endLine": 2136,
                     "endColumn": 12,
-                    "endOffset": 155352
+                    "endOffset": 155353
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8218,9 +8217,9 @@
                 "to": {
                     "startLine": 2137,
                     "startColumn": 4,
-                    "startOffset": 155357,
+                    "startOffset": 155358,
                     "endColumn": 87,
-                    "endOffset": 155440
+                    "endOffset": 155441
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8230,9 +8229,9 @@
                 "to": {
                     "startLine": 2138,
                     "startColumn": 4,
-                    "startOffset": 155445,
+                    "startOffset": 155446,
                     "endColumn": 107,
-                    "endOffset": 155548
+                    "endOffset": 155549
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8242,9 +8241,9 @@
                 "to": {
                     "startLine": 2139,
                     "startColumn": 4,
-                    "startOffset": 155553,
+                    "startOffset": 155554,
                     "endColumn": 99,
-                    "endOffset": 155648
+                    "endOffset": 155649
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8254,9 +8253,9 @@
                 "to": {
                     "startLine": 2140,
                     "startColumn": 4,
-                    "startOffset": 155653,
+                    "startOffset": 155654,
                     "endColumn": 89,
-                    "endOffset": 155738
+                    "endOffset": 155739
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8266,9 +8265,9 @@
                 "to": {
                     "startLine": 2141,
                     "startColumn": 4,
-                    "startOffset": 155743,
+                    "startOffset": 155744,
                     "endColumn": 109,
-                    "endOffset": 155848
+                    "endOffset": 155849
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8278,9 +8277,9 @@
                 "to": {
                     "startLine": 2142,
                     "startColumn": 4,
-                    "startOffset": 155853,
+                    "startOffset": 155854,
                     "endColumn": 83,
-                    "endOffset": 155932
+                    "endOffset": 155933
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8290,9 +8289,9 @@
                 "to": {
                     "startLine": 2143,
                     "startColumn": 4,
-                    "startOffset": 155937,
+                    "startOffset": 155938,
                     "endColumn": 101,
-                    "endOffset": 156034
+                    "endOffset": 156035
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8302,9 +8301,9 @@
                 "to": {
                     "startLine": 2144,
                     "startColumn": 4,
-                    "startOffset": 156039,
+                    "startOffset": 156040,
                     "endColumn": 83,
-                    "endOffset": 156118
+                    "endOffset": 156119
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8314,9 +8313,9 @@
                 "to": {
                     "startLine": 2145,
                     "startColumn": 4,
-                    "startOffset": 156123,
+                    "startOffset": 156124,
                     "endColumn": 53,
-                    "endOffset": 156172
+                    "endOffset": 156173
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8326,9 +8325,9 @@
                 "to": {
                     "startLine": 2146,
                     "startColumn": 4,
-                    "startOffset": 156177,
+                    "startOffset": 156178,
                     "endColumn": 63,
-                    "endOffset": 156236
+                    "endOffset": 156237
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8338,9 +8337,9 @@
                 "to": {
                     "startLine": 2147,
                     "startColumn": 4,
-                    "startOffset": 156241,
+                    "startOffset": 156242,
                     "endColumn": 105,
-                    "endOffset": 156342
+                    "endOffset": 156343
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8350,9 +8349,9 @@
                 "to": {
                     "startLine": 2148,
                     "startColumn": 4,
-                    "startOffset": 156347,
+                    "startOffset": 156348,
                     "endColumn": 109,
-                    "endOffset": 156452
+                    "endOffset": 156453
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8362,9 +8361,9 @@
                 "to": {
                     "startLine": 2149,
                     "startColumn": 4,
-                    "startOffset": 156457,
+                    "startOffset": 156458,
                     "endColumn": 83,
-                    "endOffset": 156536
+                    "endOffset": 156537
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8374,9 +8373,9 @@
                 "to": {
                     "startLine": 2150,
                     "startColumn": 4,
-                    "startOffset": 156541,
+                    "startOffset": 156542,
                     "endColumn": 119,
-                    "endOffset": 156656
+                    "endOffset": 156657
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/6c09271e23d196385c84fb7fa5667bea196be036/output/res/values/values.xml"
@@ -8386,10 +8385,10 @@
                 "to": {
                     "startLine": 2151,
                     "startColumn": 4,
-                    "startOffset": 156661,
+                    "startOffset": 156662,
                     "endLine": 2152,
                     "endColumn": 12,
-                    "endOffset": 156756
+                    "endOffset": 156757
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8399,10 +8398,10 @@
                 "to": {
                     "startLine": 2153,
                     "startColumn": 4,
-                    "startOffset": 156761,
+                    "startOffset": 156762,
                     "endLine": 2156,
                     "endColumn": 12,
-                    "endOffset": 156997
+                    "endOffset": 156998
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8412,10 +8411,10 @@
                 "to": {
                     "startLine": 2157,
                     "startColumn": 4,
-                    "startOffset": 157002,
+                    "startOffset": 157003,
                     "endLine": 2163,
                     "endColumn": 12,
-                    "endOffset": 157432
+                    "endOffset": 157433
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8425,10 +8424,10 @@
                 "to": {
                     "startLine": 2164,
                     "startColumn": 4,
-                    "startOffset": 157437,
+                    "startOffset": 157438,
                     "endLine": 2167,
                     "endColumn": 12,
-                    "endOffset": 157639
+                    "endOffset": 157640
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8438,10 +8437,10 @@
                 "to": {
                     "startLine": 2168,
                     "startColumn": 4,
-                    "startOffset": 157644,
+                    "startOffset": 157645,
                     "endLine": 2170,
                     "endColumn": 12,
-                    "endOffset": 157798
+                    "endOffset": 157799
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8451,10 +8450,10 @@
                 "to": {
                     "startLine": 2171,
                     "startColumn": 4,
-                    "startOffset": 157803,
+                    "startOffset": 157804,
                     "endLine": 2179,
                     "endColumn": 12,
-                    "endOffset": 158363
+                    "endOffset": 158364
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8464,10 +8463,10 @@
                 "to": {
                     "startLine": 2180,
                     "startColumn": 4,
-                    "startOffset": 158368,
+                    "startOffset": 158369,
                     "endLine": 2185,
                     "endColumn": 12,
-                    "endOffset": 158724
+                    "endOffset": 158725
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8477,10 +8476,10 @@
                 "to": {
                     "startLine": 2186,
                     "startColumn": 4,
-                    "startOffset": 158729,
+                    "startOffset": 158730,
                     "endLine": 2188,
                     "endColumn": 12,
-                    "endOffset": 158853
+                    "endOffset": 158854
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8490,10 +8489,10 @@
                 "to": {
                     "startLine": 2189,
                     "startColumn": 4,
-                    "startOffset": 158858,
+                    "startOffset": 158859,
                     "endLine": 2197,
                     "endColumn": 12,
-                    "endOffset": 159520
+                    "endOffset": 159521
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8503,10 +8502,10 @@
                 "to": {
                     "startLine": 2198,
                     "startColumn": 4,
-                    "startOffset": 159525,
+                    "startOffset": 159526,
                     "endLine": 2201,
                     "endColumn": 12,
-                    "endOffset": 159700
+                    "endOffset": 159701
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"
@@ -8516,10 +8515,10 @@
                 "to": {
                     "startLine": 2202,
                     "startColumn": 4,
-                    "startOffset": 159705,
+                    "startOffset": 159706,
                     "endLine": 2210,
                     "endColumn": 12,
-                    "endOffset": 160409
+                    "endOffset": 160410
                 },
                 "from": {
                     "file": "/Users/ali3n/.android/build-cache/ee513ce3457119202d44d61700e262541eb7c5b7/output/res/values/values.xml"

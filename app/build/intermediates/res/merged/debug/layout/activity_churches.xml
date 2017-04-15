@@ -6,9 +6,167 @@
     android:layout_height="match_parent"
     tools:context="com.example.ali3n.munchies.ChurchesActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="CHRUCHES"/>
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/relativeLayout"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="1dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="3dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/linearlayout3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="16dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:src="@drawable/pizzahutldpi" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/Name"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="Churches"
+                    android:textColor="@android:color/background_light" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/Name"
+                    android:text="Address"
+                    android:textColor="@android:color/background_light"
+                    android:id="@+id/textView5" />
+
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="110dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="65dp"
+                    android:layout_weight="1"
+                    android:text="Directions" />
+
+                <RatingBar
+                    android:id="@+id/ratingBar"
+                    android:layout_width="200dp"
+                    android:layout_height="30dp"
+                    android:layout_below="@+id/textView5"
+                    android:layout_alignParentStart="true" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="365dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="154dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/relativeLayout">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="60dp"
+            android:layout_height="20dp"
+            android:text="MENU" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/linearLayout"
+            android:layout_above="@+id/linearLayout2"
+            android:layout_alignParentStart="true">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:src="@drawable/pizzahuthdpi" />
+
+            <TextView
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:text="Quality of item etc etc etc" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/linearLayout1"
+            android:layout_below="@+id/textView3"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="14dp">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/linearLayout"
+                android:src="@drawable/pizzahuthdpi" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:text="Quality of item etc etc etc"
+                android:layout_below="@+id/linearLayout"
+                android:layout_toEndOf="@+id/imageView" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/linearLayout2"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:src="@drawable/pizzahuthdpi" />
+
+            <TextView
+                android:layout_width="280dp"
+                android:layout_height="100dp"
+                android:text="Quality of item etc etc etc" />
+
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>

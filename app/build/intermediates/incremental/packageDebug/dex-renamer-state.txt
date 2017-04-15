@@ -1,4 +1,4 @@
-#Fri Apr 14 20:48:59 GYT 2017
+#Sat Apr 15 07:56:37 GYT 2017
 base.0=/Users/ali3n/AndroidStudioProjects/Munchies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_394ebbb09760c1ff772fc35be0d4b81e8be5b481
 renamed.1=classes.dex
 renamed.0=classes2.dex
