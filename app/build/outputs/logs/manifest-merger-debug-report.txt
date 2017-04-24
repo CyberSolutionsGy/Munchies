@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:cardview-v7:24.0.0] /Users/cybersolutions/.android/build-cache/95d9908029e8a26ded32fbc6078ed8e65e8ba09c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/cybersolutions/.android/build-cache/4916035bc4a3b42d8b0f739354dffca84bf4b662/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/cybersolutions/.android/build-cache/2cfae8679b07dce177d00db511b6fa5e2e1514e2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/cybersolutions/.android/build-cache/18c5ba031237c2a234da069e62855429c0b0add6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/cybersolutions/.android/build-cache/0e3dc86368c0e58a282a883a3ecf27ebdc013479/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/cybersolutions/.android/build-cache/6b8deb3e700906d66e5088a2cf30218664535a20/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/cybersolutions/.android/build-cache/dd34818fabf4e89acc7c758d7ef8e903a89e3add/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/cybersolutions/.android/build-cache/c2f8e51a99f0ff4dc3d0875802f489f4b2b0e413/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/cybersolutions/.android/build-cache/5605a4304b13a7519fd6489b544ba288843b32ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/cybersolutions/.android/build-cache/4dabf308805d43ee174409b9c52dbbdae753668c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/cybersolutions/.android/build-cache/eecfaab6cb28f376948474bf84ddab28457f9bf7/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.solutionsguyana.munchies.MainActivity
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:24.0.0] /Users/cybersolutions/.android/build-cache/95d9908029e8a26ded32fbc6078ed8e65e8ba09c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/cybersolutions/.android/build-cache/4916035bc4a3b42d8b0f739354dffca84bf4b662/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/cybersolutions/.android/build-cache/2cfae8679b07dce177d00db511b6fa5e2e1514e2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/cybersolutions/.android/build-cache/18c5ba031237c2a234da069e62855429c0b0add6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/cybersolutions/.android/build-cache/0e74ff4079bd4ddfbc5196fe11aceba30bda8f31/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/cybersolutions/.android/build-cache/0e3dc86368c0e58a282a883a3ecf27ebdc013479/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/cybersolutions/.android/build-cache/6b8deb3e700906d66e5088a2cf30218664535a20/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/cybersolutions/.android/build-cache/dd34818fabf4e89acc7c758d7ef8e903a89e3add/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/cybersolutions/.android/build-cache/c2f8e51a99f0ff4dc3d0875802f489f4b2b0e413/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/cybersolutions/.android/build-cache/5605a4304b13a7519fd6489b544ba288843b32ab/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/cybersolutions/.android/build-cache/4dabf308805d43ee174409b9c52dbbdae753668c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/cybersolutions/.android/build-cache/eecfaab6cb28f376948474bf84ddab28457f9bf7/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/cybersolutions/.android/build-cache/4916035bc4a3b42d8b0f739354dffca84bf4b662/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/cybersolutions/.android/build-cache/4916035bc4a3b42d8b0f739354dffca84bf4b662/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/cybersolutions/.android/build-cache/2cfae8679b07dce177d00db511b6fa5e2e1514e2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/cybersolutions/.android/build-cache/18c5ba031237c2a234da069e62855429c0b0add6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/cybersolutions/.android/build-cache/0e74ff4079bd4ddfbc5196fe11aceba30bda8f31/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/cybersolutions/.android/build-cache/0e3dc86368c0e58a282a883a3ecf27ebdc013479/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/cybersolutions/.android/build-cache/6b8deb3e700906d66e5088a2cf30218664535a20/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/cybersolutions/.android/build-cache/dd34818fabf4e89acc7c758d7ef8e903a89e3add/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/cybersolutions/.android/build-cache/c2f8e51a99f0ff4dc3d0875802f489f4b2b0e413/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/cybersolutions/.android/build-cache/5605a4304b13a7519fd6489b544ba288843b32ab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/cybersolutions/.android/build-cache/4dabf308805d43ee174409b9c52dbbdae753668c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/cybersolutions/.android/build-cache/eecfaab6cb28f376948474bf84ddab28457f9bf7/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/cybersolutions/.android/build-cache/4916035bc4a3b42d8b0f739354dffca84bf4b662/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/cybersolutions/.android/build-cache/4916035bc4a3b42d8b0f739354dffca84bf4b662/output/AndroidManifest.xml:26:9-47

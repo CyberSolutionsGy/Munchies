@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/cybersolutions/.android/build-cache/c2ede9f00a3cf57f9a902bc65aaa2d53ae254151/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

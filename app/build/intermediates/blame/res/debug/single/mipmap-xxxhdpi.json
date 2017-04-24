@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

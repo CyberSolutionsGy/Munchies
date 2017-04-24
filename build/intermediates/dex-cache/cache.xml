@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/f3c446dbe7b3e6d9341c5fde999f5802cba1084d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8210a46021554cea920928a4be4b286495b249b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/okio-1.6.0_e735861bd2109952c376f081c0c2d2f62d70dc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/e03b0918626fb739cf9a47753c8dbf8c85f13b64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_0997fbdbd436a754d5df38920b622ee8d054d352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/c4a49d612b82c7f0ab33cf4024e6ed8f840cf13b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b4bdf09146e9c112954bddad80fd837616c155d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/c7173a300a127c5628afea9dccb9813df0d75dae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_cbab7ff8a49a493bd1c57d0a1ca8a8d4f662f2a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/414ec141c01b8091573d989dab3ac375a55f1e72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_3511d500d6b96b8c33ee26d5ef054c8ede06f6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/4e8a4eb9b55ca860535f2c07f77ceba78fba112c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_fb572bd6fa48aceb7939de978ae2988a61cc7563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/414ec141c01b8091573d989dab3ac375a55f1e72/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_aa4d2e69b2d98133ab2d336765f307e70122b82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/82278595d6b68ae01a9093e7519d9bf5a11007d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_7796da4211b87d870698099129270edac5a3420c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/glide-3.7.0_6c9a4ce405974c94bfb14fdc058a4a0279d4f264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/0d09444f1c8e716c994079175c64dac461d52f30/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5df04b4eb034556438feb4518749f04d7fb24a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/0d09444f1c8e716c994079175c64dac461d52f30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_19e80633854c0b0e660221f1f7f40a5c766c62db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/f3c446dbe7b3e6d9341c5fde999f5802cba1084d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_347fafc4ff62d51636d674b7b012febbbb10fc0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/31f04da5b1073ec875279d7e94d4bfd27a91fd59/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a249ef56219be9e1ee2399ff3eed55c31056bacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/cf40504e0c4ef4eb4fb118a3113f8c447effa6ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_d9fbb1d65c5b992e3df954e340a029f11b788c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_987d945ee6b0165882ca0e32b71f62f5104b5921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/31f04da5b1073ec875279d7e94d4bfd27a91fd59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_146cdc48eafb3b321cea0fd09ae91d309569dcfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/c4a49d612b82c7f0ab33cf4024e6ed8f840cf13b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_137fcd2c680db89bb175296cfe235c267ecfeb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/.android/build-cache/95d9908029e8a26ded32fbc6078ed8e65e8ba09c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/classes_d4e02948a66bd462ec98d46d53ebd2500f6836e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cybersolutions/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/cybersolutions/AndroidStudioProjects/Munchies2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_15abbd5ddafd09f28906aeb4711207031cd033a3.jar" />
+    </item>
+
+</items>
